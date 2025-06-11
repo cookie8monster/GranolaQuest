@@ -54,6 +54,20 @@ async function initMap(center, zoomLevel) {
     await fetchUPCData();
     fetchStores();
     map.on('moveend', renderVisibleStores);
+
+    // Attach zoom buttons
+    const zoomInBtn = document.getElementById("zoom-in");
+    const zoomOutBtn = document.getElementById("zoom-out");
+
+    if (zoomInBtn && zoomOutBtn) {
+        zoomInBtn.addEventListener("click", () => {
+            if (map) map.zoomIn();
+        });
+
+        zoomOutBtn.addEventListener("click", () => {
+            if (map) map.zoomOut();
+        });
+    }
 }
 
 // Fetch Store Data
@@ -74,6 +88,7 @@ function renderVisibleStores() {
     const zoom = map.getZoom();
     const bounds = map.getBounds();
     const storeListEl = document.getElementById('store-list');
+    const mapEl = document.getElementById('map');
 
     let visibleStores = allStores.filter(store =>
         store.latitude >= bounds.getSouth() &&
@@ -85,17 +100,15 @@ function renderVisibleStores() {
     // Remove existing markers
     document.querySelectorAll('.mapboxgl-marker').forEach(marker => marker.remove());
 
-    // Hide sidebar if too zoomed out or no visible stores
-const mapEl = document.getElementById('map');
-
-if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
-    storeListEl.classList.add("hidden");
-    mapEl.classList.add("full-height");
-    return;
-} else {
-    storeListEl.classList.remove("hidden");
-    mapEl.classList.remove("full-height");
-}
+    // Hide store list and expand map if no visible stores or zoomed out
+    if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
+        storeListEl.classList.add("hidden");
+        mapEl.classList.add("full-height");
+        return;
+    } else {
+        storeListEl.classList.remove("hidden");
+        mapEl.classList.remove("full-height");
+    }
 
     // Add new markers
     visibleStores.forEach(store => {
@@ -165,7 +178,7 @@ if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
     `).join('');
 }
 
-// Distance function (Haversine formula)
+// Haversine distance function
 function getDistance(lat1, lon1, lat2, lon2) {
     const R = 3958.8; // miles
     const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -211,7 +224,7 @@ async function handleSearch() {
     }
 }
 
-// Toggle Available Items
+// Toggle item visibility in store list
 function toggleItems(event, index) {
     event.stopPropagation();
     const itemList = document.getElementById(`items-list-${index}`);
