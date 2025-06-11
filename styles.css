@@ -19,7 +19,7 @@ body {
     left: 20%;
     transform: translate(-50%, -50%);
     width: 350px;
-    max-height: 80vh;
+    max-height: 300px;
     background: white;
     padding: 10px;
     border-radius: 5px;
@@ -115,15 +115,18 @@ body {
     color: #333;
     white-space: nowrap;
 }
+
+
 @media (max-width: 768px) {
   #map {
-    height: 68vh; /* Leaves 32vh for the sidebar */
+    height: 68vh;
   }
 
   #store-list {
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    top: auto;                     /* Reset the top positioning */
+    bottom: 0;                     /* Stick to bottom */
+    left: 0;                       /* Align left */
+    transform: none;              /* Remove vertical centering */
     width: 100vw;
     height: 32vh;
     max-height: 32vh;
@@ -174,5 +177,51 @@ body {
   #search-btn {
     flex-shrink: 0;
     font-size: 14px;
+  }
+}
+#zoom-controls {
+  position: absolute;
+  z-index: 1001;
+  display: flex;
+  flex-direction: column;
+}
+
+#zoom-controls button {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+  transition: background 0.2s;
+}
+
+#zoom-controls button:hover {
+  background: #f0f0f0;
+}
+
+/* Desktop: Bottom right */
+@media (min-width: 769px) {
+  #zoom-controls {
+    bottom: 20px;
+    right: 10px;
+  }
+}
+
+/* Mobile: under search bar */
+@media (max-width: 768px) {
+  #zoom-controls {
+    top: 60px; /* Just below the search bar */
+    right: 10px;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  #zoom-controls button {
+    margin-bottom: 0;
+    padding: 8px 10px;
+    font-size: 16px;
   }
 }
