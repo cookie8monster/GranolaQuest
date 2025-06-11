@@ -230,3 +230,4 @@ function toggleItems(event, index) {
     const itemList = document.getElementById(`items-list-${index}`);
     itemList.style.display = itemList.style.display === "none" ? "grid" : "none";
 }
+
