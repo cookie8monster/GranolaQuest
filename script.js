@@ -4,7 +4,7 @@ let allStores = [];
 let upcData = {};
 let map;
 let userLocation = null;
-const minZoomToShowMarkers = 10;
+const minZoomToShowMarkers = 8;
 
 // Get user location
 navigator.geolocation.getCurrentPosition(
@@ -61,13 +61,14 @@ async function fetchStores() {
     }
 }
 
-// Render Stores on Sidebar
 function renderVisibleStores() {
     if (!allStores.length || !userLocation) return;
 
     const zoom = map.getZoom();
     const bounds = map.getBounds();
+    const storeListEl = document.getElementById('store-list');
 
+    // Filter stores visible in map bounds
     let visibleStores = allStores.filter(store =>
         store.latitude >= bounds.getSouth() &&
         store.latitude <= bounds.getNorth() &&
@@ -75,48 +76,58 @@ function renderVisibleStores() {
         store.longitude <= bounds.getEast()
     );
 
+    // Remove all existing markers
     document.querySelectorAll('.mapboxgl-marker').forEach(marker => marker.remove());
 
-    if (zoom >= minZoomToShowMarkers) {
-        visibleStores.forEach(store => {
-            const markerElement = document.createElement("div");
-            markerElement.style.backgroundImage = `url(${store.logo_url})`;
-            markerElement.style.width = "35px";
-            markerElement.style.height = "35px";
-            markerElement.style.backgroundSize = "contain";
-            markerElement.style.backgroundRepeat = "no-repeat";
-            markerElement.style.backgroundPosition = "center";
-            markerElement.style.borderRadius = "50%";
-            markerElement.style.border = "2px solid #FFD700";
-            markerElement.style.backgroundColor = "white";
-
-            const marker = new mapboxgl.Marker(markerElement)
-                .setLngLat([store.longitude, store.latitude])
-                .setPopup(new mapboxgl.Popup().setHTML(`
-                    <div style="text-align: center;">
-                        <img src="${store.logo_url}" alt="${store.name}" width="40"><br>
-                        <strong>${store.name}</strong><br>
-                        ${store.address}<br>
-                        <b>Phone:</b> ${store.phone}
-                    </div>
-                `))
-                .addTo(map);
-
-            marker.getElement().addEventListener("click", () => {
-                flyToStore(store.longitude, store.latitude);
-            });
-        });
+    // Hide sidebar if too zoomed out or no visible stores
+    if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
+        storeListEl.style.display = "none";
+        return;
+    } else {
+        storeListEl.style.display = "block";
     }
 
+    // Add new markers to map
+    visibleStores.forEach(store => {
+        const markerElement = document.createElement("div");
+        markerElement.style.backgroundImage = `url(${store.logo_url})`;
+        markerElement.style.width = "35px";
+        markerElement.style.height = "35px";
+        markerElement.style.backgroundSize = "contain";
+        markerElement.style.backgroundRepeat = "no-repeat";
+        markerElement.style.backgroundPosition = "center";
+        markerElement.style.borderRadius = "50%";
+        markerElement.style.border = "2px solid #FFD700";
+        markerElement.style.backgroundColor = "white";
+
+        const marker = new mapboxgl.Marker(markerElement)
+            .setLngLat([store.longitude, store.latitude])
+            .setPopup(new mapboxgl.Popup().setHTML(`
+                <div style="text-align: center;">
+                    <img src="${store.logo_url}" alt="${store.name}" width="40"><br>
+                    <strong>${store.name}</strong><br>
+                    ${store.address}<br>
+                    <b>Phone:</b> ${store.phone}
+                </div>
+            `))
+            .addTo(map);
+
+        marker.getElement().addEventListener("click", () => {
+            flyToStore(store.longitude, store.latitude);
+        });
+    });
+
+    // Show up to 10 closest stores in sidebar
     let closestStores = visibleStores
         .map(store => ({
             ...store,
             distance: getDistance(userLocation.lat, userLocation.lng, store.latitude, store.longitude)
         }))
         .sort((a, b) => a.distance - b.distance)
-        .slice(0, 5);
+        .slice(0, 10); // changed from 5 to 10
 
-    document.getElementById('store-list').innerHTML = closestStores.map((store, index) => `
+    // Populate sidebar
+    storeListEl.innerHTML = closestStores.map((store, index) => `
         <div class="store-item" onclick="flyToStore(${store.longitude}, ${store.latitude})">
             <img class="store-logo" src="${store.logo_url}" alt="${store.retailer}">
             <div style="flex-grow: 1;">
