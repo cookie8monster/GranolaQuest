@@ -13,20 +13,26 @@ navigator.geolocation.getCurrentPosition(
             lat: position.coords.latitude,
             lng: position.coords.longitude
         };
-        initMap([userLocation.lng, userLocation.lat], 13);
+
+        const isMobile = window.innerWidth <= 768;
+        const initialZoom = isMobile ? 10 : 13;
+
+        initMap([userLocation.lng, userLocation.lat], initialZoom);
     },
     () => {
         userLocation = { lat: 39.4015, lng: -76.6053 }; // fallback
-        initMap([userLocation.lng, userLocation.lat], 10);
+        const isMobile = window.innerWidth <= 768;
+        const fallbackZoom = isMobile ? 9 : 10;
+
+        initMap([userLocation.lng, userLocation.lat], fallbackZoom);
     }
 );
 
-// Fetch UPC Data and Convert it to a Key-Value Object
+// Fetch UPC Data
 async function fetchUPCData() {
     try {
         const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC June 2025 v2.json");
         const upcArray = await response.json();
-
         upcData = upcArray.reduce((acc, item) => {
             acc[item.UPC] = { name: item.Name, image_url: item.Image };
             return acc;
@@ -61,6 +67,7 @@ async function fetchStores() {
     }
 }
 
+// Render Stores on Sidebar
 function renderVisibleStores() {
     if (!allStores.length || !userLocation) return;
 
@@ -68,7 +75,6 @@ function renderVisibleStores() {
     const bounds = map.getBounds();
     const storeListEl = document.getElementById('store-list');
 
-    // Filter stores visible in map bounds
     let visibleStores = allStores.filter(store =>
         store.latitude >= bounds.getSouth() &&
         store.latitude <= bounds.getNorth() &&
@@ -76,18 +82,22 @@ function renderVisibleStores() {
         store.longitude <= bounds.getEast()
     );
 
-    // Remove all existing markers
+    // Remove existing markers
     document.querySelectorAll('.mapboxgl-marker').forEach(marker => marker.remove());
 
     // Hide sidebar if too zoomed out or no visible stores
-    if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
-        storeListEl.style.display = "none";
-        return;
-    } else {
-        storeListEl.style.display = "block";
-    }
+const mapEl = document.getElementById('map');
 
-    // Add new markers to map
+if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
+    storeListEl.classList.add("hidden");
+    mapEl.classList.add("full-height");
+    return;
+} else {
+    storeListEl.classList.remove("hidden");
+    mapEl.classList.remove("full-height");
+}
+
+    // Add new markers
     visibleStores.forEach(store => {
         const markerElement = document.createElement("div");
         markerElement.style.backgroundImage = `url(${store.logo_url})`;
@@ -117,16 +127,15 @@ function renderVisibleStores() {
         });
     });
 
-    // Show up to 10 closest stores in sidebar
+    // Show up to 10 closest stores
     let closestStores = visibleStores
         .map(store => ({
             ...store,
             distance: getDistance(userLocation.lat, userLocation.lng, store.latitude, store.longitude)
         }))
         .sort((a, b) => a.distance - b.distance)
-        .slice(0, 10); // changed from 5 to 10
+        .slice(0, 10);
 
-    // Populate sidebar
     storeListEl.innerHTML = closestStores.map((store, index) => `
         <div class="store-item" onclick="flyToStore(${store.longitude}, ${store.latitude})">
             <img class="store-logo" src="${store.logo_url}" alt="${store.retailer}">
@@ -156,7 +165,7 @@ function renderVisibleStores() {
     `).join('');
 }
 
-// Haversine distance function (miles)
+// Distance function (Haversine formula)
 function getDistance(lat1, lon1, lat2, lon2) {
     const R = 3958.8; // miles
     const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -169,12 +178,12 @@ function getDistance(lat1, lon1, lat2, lon2) {
     return R * c;
 }
 
-// Fly to Store on Map Click
+// Fly to store on click
 function flyToStore(lng, lat) {
     map.flyTo({ center: [lng, lat], zoom: 14 });
 }
 
-// Search Functionality
+// Search functionality
 document.getElementById("search-btn").addEventListener("click", handleSearch);
 document.getElementById("search-input").addEventListener("keypress", event => {
     if (event.key === "Enter") handleSearch();
@@ -202,7 +211,7 @@ async function handleSearch() {
     }
 }
 
-// Toggle Available Items Section
+// Toggle Available Items
 function toggleItems(event, index) {
     event.stopPropagation();
     const itemList = document.getElementById(`items-list-${index}`);
