@@ -115,3 +115,42 @@ body {
     color: #333;
     white-space: nowrap;
 }
+@media (max-width: 768px) {
+  #store-list {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    transform: none;
+    width: 100%;
+    height: 300px;
+    max-height: 50vh;
+    border-radius: 12px 12px 0 0;
+    overflow-y: scroll;
+  }
+
+  .store-item {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .product-image {
+    width: 60px;
+    height: 60px;
+  }
+
+  #search-container {
+    right: 10px;
+    top: 10px;
+    width: calc(100% - 20px);
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #search-input {
+    width: 70%;
+  }
+
+  #search-btn {
+    flex-shrink: 0;
+  }
+}
