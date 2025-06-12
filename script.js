@@ -6,32 +6,27 @@ let map;
 let userLocation = null;
 const minZoomToShowMarkers = 8;
 
-// Get user location
 navigator.geolocation.getCurrentPosition(
     position => {
         userLocation = {
             lat: position.coords.latitude,
             lng: position.coords.longitude
         };
-
         const isMobile = window.innerWidth <= 768;
         const initialZoom = isMobile ? 10 : 13;
-
         initMap([userLocation.lng, userLocation.lat], initialZoom);
     },
     () => {
-        userLocation = { lat: 39.4015, lng: -76.6053 }; // fallback
+        userLocation = { lat: 39.4015, lng: -76.6053 };
         const isMobile = window.innerWidth <= 768;
         const fallbackZoom = isMobile ? 9 : 10;
-
         initMap([userLocation.lng, userLocation.lat], fallbackZoom);
     }
 );
 
-// Fetch UPC Data
 async function fetchUPCData() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC June 2025 v2.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC%20June%202025%20v2.json");
         const upcArray = await response.json();
         upcData = upcArray.reduce((acc, item) => {
             acc[item.UPC] = { name: item.Name, image_url: item.Image };
@@ -42,7 +37,6 @@ async function fetchUPCData() {
     }
 }
 
-// Initialize Map
 async function initMap(center, zoomLevel) {
     map = new mapboxgl.Map({
         container: 'map',
@@ -55,25 +49,18 @@ async function initMap(center, zoomLevel) {
     fetchStores();
     map.on('moveend', renderVisibleStores);
 
-    // Attach zoom buttons
     const zoomInBtn = document.getElementById("zoom-in");
     const zoomOutBtn = document.getElementById("zoom-out");
 
     if (zoomInBtn && zoomOutBtn) {
-        zoomInBtn.addEventListener("click", () => {
-            if (map) map.zoomIn();
-        });
-
-        zoomOutBtn.addEventListener("click", () => {
-            if (map) map.zoomOut();
-        });
+        zoomInBtn.addEventListener("click", () => map.zoomIn());
+        zoomOutBtn.addEventListener("click", () => map.zoomOut());
     }
 }
 
-// Fetch Store Data
 async function fetchStores() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June 2025 Updated List 6.12.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June%202025%20Updated%20List%206.12.json");
         allStores = await response.json();
         renderVisibleStores();
     } catch (error) {
@@ -81,7 +68,6 @@ async function fetchStores() {
     }
 }
 
-// Render Stores on Sidebar
 function renderVisibleStores() {
     if (!allStores.length || !userLocation) return;
 
@@ -97,10 +83,8 @@ function renderVisibleStores() {
         store.longitude <= bounds.getEast()
     );
 
-    // Remove existing markers
     document.querySelectorAll('.mapboxgl-marker').forEach(marker => marker.remove());
 
-    // Hide store list and expand map if no visible stores or zoomed out
     if (zoom < minZoomToShowMarkers || visibleStores.length === 0) {
         storeListEl.classList.add("hidden");
         mapEl.classList.add("full-height");
@@ -110,7 +94,6 @@ function renderVisibleStores() {
         mapEl.classList.remove("full-height");
     }
 
-    // Add new markers
     visibleStores.forEach(store => {
         const markerElement = document.createElement("div");
         markerElement.style.backgroundImage = `url(${store.logo_url})`;
@@ -140,7 +123,6 @@ function renderVisibleStores() {
         });
     });
 
-    // Show up to 10 closest stores
     let closestStores = visibleStores
         .map(store => ({
             ...store,
@@ -178,9 +160,8 @@ function renderVisibleStores() {
     `).join('');
 }
 
-// Haversine distance function
 function getDistance(lat1, lon1, lat2, lon2) {
-    const R = 3958.8; // miles
+    const R = 3958.8;
     const dLat = (lat2 - lat1) * Math.PI / 180;
     const dLon = (lon2 - lon1) * Math.PI / 180;
     const a =
@@ -191,12 +172,10 @@ function getDistance(lat1, lon1, lat2, lon2) {
     return R * c;
 }
 
-// Fly to store on click
 function flyToStore(lng, lat) {
     map.flyTo({ center: [lng, lat], zoom: 14 });
 }
 
-// Search functionality
 document.getElementById("search-btn").addEventListener("click", handleSearch);
 document.getElementById("search-input").addEventListener("keypress", event => {
     if (event.key === "Enter") handleSearch();
@@ -224,7 +203,6 @@ async function handleSearch() {
     }
 }
 
-// Toggle item visibility in store list
 function toggleItems(event, index) {
     event.stopPropagation();
     const itemList = document.getElementById(`items-list-${index}`);
