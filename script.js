@@ -73,7 +73,7 @@ async function initMap(center, zoomLevel) {
 // Fetch Store Data
 async function fetchStores() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June 2025 Store List v4.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June 2025 Updated List 6.12.json");
         allStores = await response.json();
         renderVisibleStores();
     } catch (error) {
@@ -230,4 +230,3 @@ function toggleItems(event, index) {
     const itemList = document.getElementById(`items-list-${index}`);
     itemList.style.display = itemList.style.display === "none" ? "grid" : "none";
 }
-
