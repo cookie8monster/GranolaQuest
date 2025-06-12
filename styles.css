@@ -1,158 +1,68 @@
 /* General Styles */
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 /* Map */
 #map {
-    width: 100%;
-    height: 100vh;
-    position: relative;
+  width: 100%;
+  height: 100vh;
+  position: relative;
 }
 
 /* Store List Sidebar */
 #store-list {
-    position: absolute;
-    top: 50%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    width: 350px;
-    max-height: 300px;
-    background: white;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
-    overflow-y: auto;
-    z-index: 1000;
-    transition: all 0.3s ease;
-
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  max-height: 300px;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.3s ease;
 }
 
 .store-item {
-    display: flex;
-    align-items: center;
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
-    cursor: pointer;
-    font-size: 12px;
+  display: flex;
+  align-items: flex-start;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+  font-size: 12px;
+  gap: 8px;
+  overflow: hidden;
 }
 
 .store-item:hover {
-    background: #f5f5f5;
+  background: #f5f5f5;
 }
 
 /* Store Logo */
 .store-logo {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    margin-right: 10px;
-    border: 2px solid #FFD700;
-    background-color: white;
-    object-fit: contain;
-    padding: 2px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 2px solid #FFD700;
+  background-color: white;
+  object-fit: contain;
+  padding: 2px;
 }
 
-/* Floating Search Bar */
-#search-container {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    display: flex;
-    align-items: center;
-    background: white;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
-    z-index: 1000;
-}
-
-#search-input {
-    border: none;
-    padding: 8px;
-    font-size: 14px;
-    outline: none;
-    width: 200px;
-}
-
-#search-btn {
-    background: #FFD700;
-    border: none;
-    padding: 8px 12px;
-    cursor: pointer;
-    font-size: 14px;
-    border-radius: 3px;
-}
-
-/* Grid Layout for Product Images */
-.items-list {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns */
-    gap: 10px; /* Space between images */
-    padding: 10px;
-}
-
-.product-item {
-    text-align: center;
-}
-
-.product-image {
-    width: 80px;
-    height: 80px;
-    object-fit: contain;
-    border-radius: 5px;
-    border: 1px solid #ddd;
-}
-
-.product-name {
-    font-size: 12px;
-    margin-top: 5px;
-}
-.distance-label {
-    margin-left: auto;
-    font-size: 12px;
-    font-weight: bold;
-    color: #333;
-    white-space: nowrap;
-}
-
-
-@media (max-width: 768px) {
-  #map {
-    height: 68vh;
-  }
-
-  #store-list {
-    top: auto;                     /* Reset the top positioning */
-    bottom: 0;                     /* Stick to bottom */
-    left: 0;                       /* Align left */
-    transform: none;              /* Remove vertical centering */
-    width: 100vw;
-    height: 32vh;
-    max-height: 32vh;
-    background: white;
-    border-radius: 12px 12px 0 0;
-    padding: 10px;
-    overflow-y: auto;
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
-    box-sizing: border-box;
-    z-index: 1000;
-  }
-
-  .store-item {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 13px;
-    padding: 10px 8px;
-    gap: 8px;
-  }
-  .store-text {
+/* Store Text Container */
+.store-text {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
   min-width: 0;
+  overflow: hidden;
 }
 
 .store-name {
@@ -166,18 +76,111 @@ body {
 }
 
 .store-address {
-  font-size: clamp(10px, 2.8vw, 12px);
+  font-size: clamp(10px, 2.6vw, 12px);
+  line-height: 1.2;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.2;
 }
 
+/* Floating Search Bar */
+#search-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  background: white;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+#search-input {
+  border: none;
+  padding: 8px;
+  font-size: 14px;
+  outline: none;
+  width: 200px;
+}
+
+#search-btn {
+  background: #FFD700;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+/* Grid Layout for Product Images */
+.items-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  padding: 10px;
+}
+
+.product-item {
+  text-align: center;
+}
+
+.product-image {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.product-name {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.distance-label {
+  margin-left: auto;
+  font-size: 12px;
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  #map {
+    height: 68vh;
+  }
+
+  #store-list {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    transform: none;
+    width: 100vw;
+    height: 32vh;
+    max-height: 32vh;
+    background: white;
+    border-radius: 12px 12px 0 0;
+    padding: 10px;
+    overflow-y: auto;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    z-index: 1000;
+  }
+
+  .store-item {
+    font-size: 13px;
+    padding: 10px 8px;
+    flex-wrap: nowrap;
+    gap: 8px;
+    align-items: flex-start;
+  }
 
   .store-logo {
     width: 36px;
     height: 36px;
-    flex-shrink: 0;
   }
 
   .distance-label {
@@ -206,6 +209,8 @@ body {
     font-size: 14px;
   }
 }
+
+/* Zoom Controls */
 #zoom-controls {
   position: absolute;
   z-index: 1001;
@@ -229,7 +234,6 @@ body {
   background: #f0f0f0;
 }
 
-/* Desktop: Bottom right */
 @media (min-width: 769px) {
   #zoom-controls {
     bottom: 20px;
@@ -237,10 +241,9 @@ body {
   }
 }
 
-/* Mobile: under search bar */
 @media (max-width: 768px) {
   #zoom-controls {
-    top: 60px; /* Just below the search bar */
+    top: 60px;
     right: 10px;
     flex-direction: row;
     gap: 10px;
@@ -252,9 +255,10 @@ body {
     font-size: 16px;
   }
 }
+
 /* Hidden store list (JS toggles this class) */
 #store-list.hidden {
-  display: none !important;              /* ← Add this line */
+  display: none !important;
   height: 0 !important;
   max-height: 0 !important;
   padding: 0 !important;
@@ -269,4 +273,3 @@ body {
 #map.full-height {
   height: 100vh !important;
 }
-
