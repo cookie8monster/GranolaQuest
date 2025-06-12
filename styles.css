@@ -148,6 +148,31 @@ body {
     padding: 10px 8px;
     gap: 8px;
   }
+  .store-text {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.store-name {
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 1.2;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.store-address {
+  font-size: clamp(10px, 2.8vw, 12px);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.2;
+}
+
 
   .store-logo {
     width: 36px;
