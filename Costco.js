@@ -24,17 +24,19 @@ navigator.geolocation.getCurrentPosition(
     }
 );
 
-async function fetchUPCData() {
-    try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC%20June%202025%20v2.json");
-        const upcArray = await response.json();
-        upcData = upcArray.reduce((acc, item) => {
-            acc[item.UPC] = { name: item.Name, image_url: item.Image };
-            return acc;
-        }, {});
-    } catch (error) {
-        console.error("Error loading UPC data:", error);
-    }
+
+async function fetchStores() {
+  try {
+    const response = await fetch(
+      "https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/CostcoSEonly.json"
+    );
+    const data = await response.json();
+    // data is an array; normalize keys for your map code:
+    allStores = Array.isArray(data) ? data.map(normalizeStore) : [];
+    renderVisibleStores();
+  } catch (error) {
+    console.error("Error loading stores:", error);
+  }
 }
 
 async function initMap(center, zoomLevel) {
