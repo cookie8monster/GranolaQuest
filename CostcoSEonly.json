@@ -1,0 +1,1232 @@
+[
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE POMPANO BEACH",
+        "name": "COSTCO WHOLESALE POMPANO BEACH",
+        "address": "1800 W Sample Rd Pompano Beach FL 33064",
+        "latitude": 26.2736591,
+        "longitude": -80.14948729999999,
+        "phone": "954-968-7114",
+        "zip_code": "33064",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DAVIE",
+        "name": "COSTCO WHOLESALE DAVIE",
+        "address": "1890 S University Dr Davie FL 33324",
+        "latitude": 26.097128,
+        "longitude": -80.24711119999999,
+        "phone": "954-370-8990",
+        "zip_code": "33324",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PALM BEACH GARDENS",
+        "name": "COSTCO WHOLESALE PALM BEACH GARDENS",
+        "address": "3250 Northlake Blvd Lake Park FL 33403",
+        "latitude": 26.8066445,
+        "longitude": -80.0877188,
+        "phone": "561-776-3052",
+        "zip_code": "33403",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LANTANA",
+        "name": "COSTCO WHOLESALE LANTANA",
+        "address": "1873 W Lantana Rd Lantana FL 33462",
+        "latitude": 26.5882948,
+        "longitude": -80.0718924,
+        "phone": "561-533-0958",
+        "zip_code": "33462",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MIAMI LAKES",
+        "name": "COSTCO WHOLESALE MIAMI LAKES",
+        "address": "16580 NW 59th Ave Miami FL 33014",
+        "latitude": 25.9234134,
+        "longitude": -80.2993729,
+        "phone": "305-825-9818",
+        "zip_code": "33014",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ALTAMONTE SPRINGS",
+        "name": "COSTCO WHOLESALE ALTAMONTE SPRINGS",
+        "address": "741 Orange Ave Altamonte Springs FL 32714",
+        "latitude": 28.6586644,
+        "longitude": -81.41853619999999,
+        "phone": "407-786-7802",
+        "zip_code": "32714",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EAST ORLANDO",
+        "name": "COSTCO WHOLESALE EAST ORLANDO",
+        "address": "3333 University Blvd Winter Park  FL 32792",
+        "latitude": 28.5993904,
+        "longitude": -81.3003754,
+        "phone": "407-681-2119",
+        "zip_code": "32792",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GWINNETT",
+        "name": "COSTCO WHOLESALE GWINNETT",
+        "address": "3980 Venture Dr Duluth GA 30096",
+        "latitude": 33.9480501,
+        "longitude": -84.1444617,
+        "phone": "770-622-1330",
+        "zip_code": "30096",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PERIMETER",
+        "name": "COSTCO WHOLESALE PERIMETER",
+        "address": "6350 Peachtree Dunwoody Rd Atlanta  GA 30328",
+        "latitude": 33.9286939,
+        "longitude": -84.3528791,
+        "phone": "770-352-8660",
+        "zip_code": "30328",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE TOWN CENTER",
+        "name": "COSTCO WHOLESALE TOWN CENTER",
+        "address": "645 Barrett Pkwy NW Kennesaw GA 30144",
+        "latitude": 34.0051092,
+        "longitude": -84.57004069999999,
+        "phone": "770-794-1767",
+        "zip_code": "30144",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DURHAM",
+        "name": "COSTCO WHOLESALE DURHAM",
+        "address": "1510 N Pointe Dr Durham NC 27705",
+        "latitude": 36.028748,
+        "longitude": -78.9143261,
+        "phone": "919-220-2770",
+        "zip_code": "27705",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CAROLINA",
+        "name": "COSTCO WHOLESALE CAROLINA",
+        "address": "1185 Ave 65 Infanteria San Juan PR 00924",
+        "latitude": 38.7945952,
+        "longitude": -106.5348379,
+        "phone": "787-999-7230",
+        "zip_code": "924",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CLEARWATER",
+        "name": "COSTCO WHOLESALE CLEARWATER",
+        "address": "2655  Gulf to Bay Blvd Clearwater FL 33759",
+        "latitude": 27.9589405,
+        "longitude": -82.72729609999999,
+        "phone": "727-373-1951",
+        "zip_code": "33759",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MYRTLE BEACH",
+        "name": "COSTCO WHOLESALE MYRTLE BEACH",
+        "address": "1021 Oak Forest Ln Myrtle Beach SC 29577",
+        "latitude": 33.7058243,
+        "longitude": -78.9157407,
+        "phone": "843-839-6604",
+        "zip_code": "29577",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GREENSBORO",
+        "name": "COSTCO WHOLESALE GREENSBORO",
+        "address": "4201 W Wendover Ave Greensboro NC 27407",
+        "latitude": 36.0574127,
+        "longitude": -79.8829859,
+        "phone": "336-291-4010",
+        "zip_code": "27407",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BOCA RATON",
+        "name": "COSTCO WHOLESALE BOCA RATON",
+        "address": "17800 Congress Ave Boca Raton FL 33487",
+        "latitude": 26.4128419,
+        "longitude": -80.10036720000001,
+        "phone": "561-981-5004",
+        "zip_code": "33487",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FORT MYERS",
+        "name": "COSTCO WHOLESALE FORT MYERS",
+        "address": "7171 Cypress Lake Dr Fort Myers FL 33907",
+        "latitude": 26.5445291,
+        "longitude": -81.8745072,
+        "phone": "239-415-3806",
+        "zip_code": "33907",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NE MEMPHIS",
+        "name": "COSTCO WHOLESALE NE MEMPHIS",
+        "address": "2431 N. Germantown Pkwy Cordova TN 38018",
+        "latitude": 35.1916714,
+        "longitude": -89.7966784,
+        "phone": "901-214-0003",
+        "zip_code": "38018",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SE MEMPHIS",
+        "name": "COSTCO WHOLESALE SE MEMPHIS",
+        "address": "3775 Hacks Cross Rd Memphis TN 38125",
+        "latitude": 35.0462192,
+        "longitude": -89.797219,
+        "phone": "901-214-0054",
+        "zip_code": "38125",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NAPLES",
+        "name": "COSTCO WHOLESALE NAPLES",
+        "address": "6275 Naples Blvd Naples FL 34109",
+        "latitude": 26.2200082,
+        "longitude": -81.7752843,
+        "phone": "239-596-6404",
+        "zip_code": "34109",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE HUNTSVILLE",
+        "name": "COSTCO WHOLESALE HUNTSVILLE",
+        "address": "1205 N Memorial Pkwy Huntsville AL 35801",
+        "latitude": 34.7429979,
+        "longitude": -86.60151139999999,
+        "phone": "256-519-2220",
+        "zip_code": "35801",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE E JACKSONVILLE",
+        "name": "COSTCO WHOLESALE E JACKSONVILLE",
+        "address": "4901 Gate Pkwy E Jacksonville FL 32246",
+        "latitude": 30.25184369999999,
+        "longitude": -81.5342239,
+        "phone": "904-997-7003",
+        "zip_code": "32246",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BRANDON",
+        "name": "COSTCO WHOLESALE BRANDON",
+        "address": "10921 Causeway Blvd Brandon FL 33511",
+        "latitude": 27.921661,
+        "longitude": -82.33120459999999,
+        "phone": "813-952-0103",
+        "zip_code": "33511",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CHARLOTTE",
+        "name": "COSTCO WHOLESALE CHARLOTTE",
+        "address": "500 Tyvola Rd  Charlotte NC 28217",
+        "latitude": 35.1616671,
+        "longitude": -80.8844741,
+        "phone": "704-501-2403",
+        "zip_code": "28217",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CHARLESTON",
+        "name": "COSTCO WHOLESALE CHARLESTON",
+        "address": "3050 Ashley Town Center Dr Charleston SC 29414",
+        "latitude": 32.7952561,
+        "longitude": -80.03625629999999,
+        "phone": "843-460-2003",
+        "zip_code": "29414",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WINSTON SALEM",
+        "name": "COSTCO WHOLESALE WINSTON SALEM",
+        "address": "1085 Hanes Mall Blvd  Winston-Salem NC 27103",
+        "latitude": 36.06593530000001,
+        "longitude": -80.3176481,
+        "phone": "336-970-2300",
+        "zip_code": "27103",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE HOOVER",
+        "name": "COSTCO WHOLESALE HOOVER",
+        "address": "3650 Galleria Circle Hoover AL 35244",
+        "latitude": 33.3773408,
+        "longitude": -86.8124803,
+        "phone": "205-909-1039",
+        "zip_code": "35244",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE E BAYAMON",
+        "name": "COSTCO WHOLESALE E BAYAMON",
+        "address": "125 Calle A Bayamon PR 00959",
+        "latitude": 38.7945952,
+        "longitude": -106.5348379,
+        "phone": "787-993-9303",
+        "zip_code": "959",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE W BAYAMON",
+        "name": "COSTCO WHOLESALE W BAYAMON",
+        "address": "PR-2, KM 15.5 Bayamon PR 00961",
+        "latitude": 38.7945952,
+        "longitude": -106.5348379,
+        "phone": "787-474-6930",
+        "zip_code": "961",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CAGUAS",
+        "name": "COSTCO WHOLESALE CAGUAS",
+        "address": "200 Ave Rafael Cordero, PR#30 Caguas PR 00725",
+        "latitude": 38.7945952,
+        "longitude": -106.5348379,
+        "phone": "787-653-6930",
+        "zip_code": "725",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MALL OF GEORGIA",
+        "name": "COSTCO WHOLESALE MALL OF GEORGIA",
+        "address": "1550 Mall of Georgia Blvd Buford GA 30519",
+        "latitude": 34.0622899,
+        "longitude": -83.99674499999999,
+        "phone": "678-288-3009",
+        "zip_code": "30519",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MATTHEWS",
+        "name": "COSTCO WHOLESALE MATTHEWS",
+        "address": "2125 Mathews Township Pkwy Mathews NC 28105",
+        "latitude": 35.1302171,
+        "longitude": -80.7046089,
+        "phone": "704-321-7440",
+        "zip_code": "28105",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BRENTWOOD",
+        "name": "COSTCO WHOLESALE BRENTWOOD",
+        "address": "98 Seaboard Ln Brentwood TN 37027",
+        "latitude": 35.9636496,
+        "longitude": -86.8163855,
+        "phone": "615-493-1003",
+        "zip_code": "37027",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ESTERO",
+        "name": "COSTCO WHOLESALE ESTERO",
+        "address": "10088 Gulf Center Dr Fort Meyers FL 33913",
+        "latitude": 26.4898425,
+        "longitude": -81.785879,
+        "phone": "239-433-7242",
+        "zip_code": "33913",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ROYAL PALM BEACH",
+        "name": "COSTCO WHOLESALE ROYAL PALM BEACH",
+        "address": "11001 Southern Blvd, Ste 160 Royal Palm Beach FL 33411",
+        "latitude": 26.6834219,
+        "longitude": -80.2214764,
+        "phone": "561-803-8822",
+        "zip_code": "33411",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE W. NASHVILLE",
+        "name": "COSTCO WHOLESALE W. NASHVILLE",
+        "address": "6670 Charlotte Pike Nashville TN 37209",
+        "latitude": 36.1393064,
+        "longitude": -86.8853784,
+        "phone": "615-354-5102",
+        "zip_code": "37209",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CUMBERLAND MALL",
+        "name": "COSTCO WHOLESALE CUMBERLAND MALL",
+        "address": "2900 Cumberland Mall SE Atlanta GA 30339",
+        "latitude": 33.8823229,
+        "longitude": -84.47036159999999,
+        "phone": "770-431-1700",
+        "zip_code": "30339",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WILMINGTON",
+        "name": "COSTCO WHOLESALE WILMINGTON",
+        "address": "5351 Gingerwood Dr Wilmington NC 28405",
+        "latitude": 34.2480716,
+        "longitude": -77.8721125,
+        "phone": "910-798-3252",
+        "zip_code": "28405",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE RALEIGH",
+        "name": "COSTCO WHOLESALE RALEIGH",
+        "address": "2838 Wake Forest Rd Raleigh NC 27609",
+        "latitude": 35.8183491,
+        "longitude": -78.6224957,
+        "phone": "919-755-2801",
+        "zip_code": "27609",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PEMBROKE PINES",
+        "name": "COSTCO WHOLESALE PEMBROKE PINES",
+        "address": "15915 Pines Blvd Pembroke Pines FL 33027",
+        "latitude": 26.0093198,
+        "longitude": -80.3606611,
+        "phone": "954-266-3461",
+        "zip_code": "33027",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ALPHARETTA",
+        "name": "COSTCO WHOLESALE ALPHARETTA",
+        "address": "2855 Jordan Court Alpharetta GA 30004",
+        "latitude": 34.0907887,
+        "longitude": -84.2782446,
+        "phone": "678-823-4950",
+        "zip_code": "30004",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GREENVILLE",
+        "name": "COSTCO WHOLESALE GREENVILLE",
+        "address": "1021 Woodruff Rd Greenville SC 29607",
+        "latitude": 34.8359265,
+        "longitude": -82.3118448,
+        "phone": "864-297-2562",
+        "zip_code": "29607",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SPARTANBURG",
+        "name": "COSTCO WHOLESALE SPARTANBURG",
+        "address": "211 W Blackstock Rd Spartanburg SC 29301",
+        "latitude": 34.9398374,
+        "longitude": -81.9974515,
+        "phone": "864-515-4942",
+        "zip_code": "29301",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MONTGOMERY",
+        "name": "COSTCO WHOLESALE MONTGOMERY",
+        "address": "8251 Eastchase Pkwy Montgomery AL 36117",
+        "latitude": 32.363768,
+        "longitude": -86.15069249999999,
+        "phone": "334-270-7452",
+        "zip_code": "36117",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE KENDALL",
+        "name": "COSTCO WHOLESALE KENDALL",
+        "address": "13450 SW 120th St Miami FL 33186",
+        "latitude": 25.654786,
+        "longitude": -80.4130954,
+        "phone": "305-964-4227",
+        "zip_code": "33186",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE TALLAHASSEE",
+        "name": "COSTCO WHOLESALE TALLAHASSEE",
+        "address": "4067 Lagniappe Way Tallahassee FL 32317",
+        "latitude": 30.4616219,
+        "longitude": -84.21213639999999,
+        "phone": "850-219-2500",
+        "zip_code": "32317",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FORT OGLETHORPE CLOUD",
+        "name": "COSTCO WHOLESALE FORT OGLETHORPE CLOUD",
+        "address": "100 Cobb Pkwy Ringgold GA 30736",
+        "latitude": 34.967833,
+        "longitude": -85.19494929999999,
+        "phone": "706-891-2577",
+        "zip_code": "30736",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BROOKHAVEN",
+        "name": "COSTCO WHOLESALE BROOKHAVEN",
+        "address": "500 Brookhaven Way Atlanta GA 30319",
+        "latitude": 33.8731648,
+        "longitude": -84.3297867,
+        "phone": "404-460-1915",
+        "zip_code": "30319",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE AUGUSTA",
+        "name": "COSTCO WHOLESALE AUGUSTA",
+        "address": "825 Alexander Dr Augusta GA 30909",
+        "latitude": 33.5255372,
+        "longitude": -82.01999529999999,
+        "phone": "706-739-1700",
+        "zip_code": "30909",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FARRAGUT",
+        "name": "COSTCO WHOLESALE FARRAGUT",
+        "address": "10745 Kingston Pike Knoxville TN 37934",
+        "latitude": 35.8974859,
+        "longitude": -84.1398012,
+        "phone": "865-218-7700",
+        "zip_code": "37934",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SARASOTA MALL",
+        "name": "COSTCO WHOLESALE SARASOTA MALL",
+        "address": "8201 S Tamiami Trail  Unit 501 Sarasota FL 34238",
+        "latitude": 27.2343583,
+        "longitude": -82.4913502,
+        "phone": "941-554-2800",
+        "zip_code": "34238",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CUMMING",
+        "name": "COSTCO WHOLESALE CUMMING",
+        "address": "1211 Bald Ridge Marina Rd Cumming GA 30041",
+        "latitude": 34.2130923,
+        "longitude": -84.11646499999999,
+        "phone": "470-239-6610",
+        "zip_code": "30041",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MOBILE",
+        "name": "COSTCO WHOLESALE MOBILE",
+        "address": "1450 Tingle Circle W Mobile AL 36606",
+        "latitude": 30.6487815,
+        "longitude": -88.1187992,
+        "phone": "251-308-7030",
+        "zip_code": "36606",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE APEX",
+        "name": "COSTCO WHOLESALE APEX",
+        "address": "1021 Pine Plaza Dr Apex NC 27523",
+        "latitude": 35.74666759999999,
+        "longitude": -78.8268769,
+        "phone": "919-331-6027",
+        "zip_code": "27523",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MIAMI",
+        "name": "COSTCO WHOLESALE MIAMI",
+        "address": "7795 W Flagler St Miami FL 33144",
+        "latitude": 25.7703532,
+        "longitude": -80.3234432,
+        "phone": "786-482-7135",
+        "zip_code": "33144",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE COLUMBIA",
+        "name": "COSTCO WHOLESALE COLUMBIA",
+        "address": "507 Piney Grove Rd Columbia SC 29210",
+        "latitude": 34.0700191,
+        "longitude": -81.1390813,
+        "phone": "803-875-7130",
+        "zip_code": "29210",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE S ORLANDO",
+        "name": "COSTCO WHOLESALE S ORLANDO",
+        "address": "4696 Gardens Park Blvd Orlando FL 32839",
+        "latitude": 28.4952248,
+        "longitude": -81.4254946,
+        "phone": "407-586-7221",
+        "zip_code": "32839",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WESLEY CHAPEL",
+        "name": "COSTCO WHOLESALE WESLEY CHAPEL",
+        "address": "2225 Grand Cypress Dr Lutz FL 33559",
+        "latitude": 28.1892593,
+        "longitude": -82.3936612,
+        "phone": "813-279-7031",
+        "zip_code": "33559",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE W TAMPA",
+        "name": "COSTCO WHOLESALE W TAMPA",
+        "address": "8712 W Linebaugh Ave Tampa FL 33625",
+        "latitude": 28.0415152,
+        "longitude": -82.5802844,
+        "phone": "813-616-7001",
+        "zip_code": "33625",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE W JACKSONVILLE",
+        "name": "COSTCO WHOLESALE W JACKSONVILLE",
+        "address": "8000 Parramore Rd Jacksonville FL 32244",
+        "latitude": 30.2015649,
+        "longitude": -81.7561415,
+        "phone": "904-479-7521",
+        "zip_code": "32244",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WOODSTOCK",
+        "name": "COSTCO WHOLESALE WOODSTOCK",
+        "address": "113 Lincoln St Woodstock  GA 30188",
+        "latitude": 34.1198262,
+        "longitude": -84.5151489,
+        "phone": "770-694-7193",
+        "zip_code": "30188",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MT PLEASANT",
+        "name": "COSTCO WHOLESALE MT PLEASANT",
+        "address": "3525 Park Ave Blvd Mt Pleasant  SC 29466",
+        "latitude": 32.8801607,
+        "longitude": -79.7699389,
+        "phone": "843-375-7021",
+        "zip_code": "29466",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CORAL SPRINGS",
+        "name": "COSTCO WHOLESALE CORAL SPRINGS",
+        "address": "4621 Coral Ridge Dr Coral Springs  FL 33076",
+        "latitude": 26.2882129,
+        "longitude": -80.2793454,
+        "phone": "954-715-8240",
+        "zip_code": "33076",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE N MIAMI",
+        "name": "COSTCO WHOLESALE N MIAMI",
+        "address": "14800 Sole Mia Way North Miami FL 33181",
+        "latitude": 25.9129481,
+        "longitude": -80.15465809999999,
+        "phone": "305-944-8711",
+        "zip_code": "33181",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MOORESVILLE",
+        "name": "COSTCO WHOLESALE MOORESVILLE",
+        "address": "392 Talbert Rd Moorsville NC 28117",
+        "latitude": 35.583032,
+        "longitude": -80.855218,
+        "phone": "980-447-9749",
+        "zip_code": "28117",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SHARPSBURG",
+        "name": "COSTCO WHOLESALE SHARPSBURG",
+        "address": "40 Fischer Crossings Dr Sharpsburg GA 30277",
+        "latitude": 33.40085,
+        "longitude": -84.620842,
+        "phone": "678-621-8594",
+        "zip_code": "30277",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BRADENTON",
+        "name": "COSTCO WHOLESALE BRADENTON",
+        "address": "805 Lighthouse Dr Bradenton FL 34212",
+        "latitude": 27.4945291,
+        "longitude": -82.47150909999999,
+        "phone": "941-213-0747",
+        "zip_code": "34212",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE RIDGELAND",
+        "name": "COSTCO WHOLESALE RIDGELAND",
+        "address": "700 Highland Colony Pky Ridgeland  MS 39157",
+        "latitude": 32.4228171,
+        "longitude": -90.1466226,
+        "phone": "601-499-8581",
+        "zip_code": "39157",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DALLAS (N ATLANTA)",
+        "name": "COSTCO WHOLESALE DALLAS (N ATLANTA)",
+        "address": "1715 Charles Hardy PKY Dallas GA 30157",
+        "latitude": 33.9206155,
+        "longitude": -84.76420759999999,
+        "phone": "404-806-4595",
+        "zip_code": "30157",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MURFREESBORO",
+        "name": "COSTCO WHOLESALE MURFREESBORO",
+        "address": "1524 Beasie Rd Murfreesboro TN 37128",
+        "latitude": 35.8266167,
+        "longitude": -86.4178431,
+        "phone": "615-439-2639",
+        "zip_code": "37128",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MELBOURNE",
+        "name": "COSTCO WHOLESALE MELBOURNE",
+        "address": "4305 Pineda Causeway Melbourne FL 32940",
+        "latitude": 28.1905373,
+        "longitude": -80.7194305,
+        "phone": "321-428-2910",
+        "zip_code": "32940",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE POOLER",
+        "name": "COSTCO WHOLESALE POOLER",
+        "address": "200 Mosaic Circle Pooler GA 31322",
+        "latitude": 32.0800809,
+        "longitude": -81.2796252,
+        "phone": "912-348-4569",
+        "zip_code": "31322",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GARNER",
+        "name": "COSTCO WHOLESALE GARNER",
+        "address": "7800 Fayetteville Rd Raleigh NC 27603",
+        "latitude": 35.6678828,
+        "longitude": -78.69827719999999,
+        "phone": "984-810-5030",
+        "zip_code": "27603",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ST AUGUSTINE",
+        "name": "COSTCO WHOLESALE ST AUGUSTINE",
+        "address": "215 World Commerce PKY St Augustine FL 32092",
+        "latitude": 29.9815517,
+        "longitude": -81.4634353,
+        "phone": "904-687-1299",
+        "zip_code": "32092",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ATHENS",
+        "name": "COSTCO WHOLESALE ATHENS",
+        "address": "5550 Parkway Blvd Athens GA 30606",
+        "latitude": 33.9208126,
+        "longitude": -83.4570181,
+        "phone": "706-247-8134",
+        "zip_code": "30606",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CLERMONT",
+        "name": "COSTCO WHOLESALE CLERMONT",
+        "address": "4600 Collina Ter Clermont FL 34711",
+        "latitude": 28.5486621,
+        "longitude": -81.6667853,
+        "phone": "689-407-3663",
+        "zip_code": "34711",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE HENDERSONVILLE",
+        "name": "COSTCO WHOLESALE HENDERSONVILLE",
+        "address": "1101 Forest Retreat Rd Hendersonville TN 37075",
+        "latitude": 36.328895,
+        "longitude": -86.6252153,
+        "phone": "615-348-3248",
+        "zip_code": "37075",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE STOCKBRIDGE",
+        "name": "COSTCO WHOLESALE STOCKBRIDGE",
+        "address": "2245 Jodeco Rd Stockbridge GA 30253",
+        "latitude": 33.48047,
+        "longitude": -84.2195368,
+        "phone": "678-272-3288",
+        "zip_code": "30253",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DAYTONA",
+        "name": "COSTCO WHOLESALE DAYTONA",
+        "address": "150 Pit Rd Daytona FL 32114",
+        "latitude": 29.1952433,
+        "longitude": -81.07591839999999,
+        "phone": "386-267-3200",
+        "zip_code": "32114",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NORTH PORT",
+        "name": "COSTCO WHOLESALE NORTH PORT",
+        "address": "11700 Mezzo Dr Venice FL 34293",
+        "latitude": 27.0443632,
+        "longitude": -82.3113422,
+        "phone": "941-548-4770",
+        "zip_code": "34293",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MT JULIET",
+        "name": "COSTCO WHOLESALE MT JULIET",
+        "address": "100 Legacy Pointe Blvd Mt Juliet TN 37122",
+        "latitude": 36.1815809,
+        "longitude": -86.4611068,
+        "phone": "615-583-4480",
+        "zip_code": "37122",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MADISON",
+        "name": "COSTCO WHOLESALE MADISON",
+        "address": "8094 Hwy 72 W Madison AL 35758",
+        "latitude": 34.751843,
+        "longitude": -86.7524828,
+        "phone": "938-218-2913",
+        "zip_code": "35758",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    }
+]
