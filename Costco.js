@@ -59,7 +59,7 @@ async function initMap(center, zoomLevel) {
 
 async function fetchStores() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/CostcoSEonly.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/CostcoCombo.json");
         allStores = await response.json();
         renderVisibleStores();
     } catch (error) {
