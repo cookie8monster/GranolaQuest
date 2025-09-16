@@ -1229,4 +1229,1654 @@
         ],
         "available_upc_names": []
     }
+     {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE COMMERCE TOWNSHIP",
+        "name": "COSTCO WHOLESALE COMMERCE TOWNSHIP",
+        "address": "3000 Commerce Crossing Rd Commerce Township MI 48390",
+        "latitude": 42.5341263,
+        "longitude": -83.4453466,
+        "phone": "248-529-2300",
+        "zip_code": "48390",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NAPERVILLE",
+        "name": "COSTCO WHOLESALE NAPERVILLE",
+        "address": "1320 South Route #59 Naperville IL 60564",
+        "latitude": 41.7452675,
+        "longitude": -88.2034006,
+        "phone": "630-328-2900",
+        "zip_code": "60564",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE AVON",
+        "name": "COSTCO WHOLESALE AVON",
+        "address": "35804 Detroit Rd Avon OH 44011",
+        "latitude": 41.46023290000001,
+        "longitude": -82.0114209,
+        "phone": "440-930-0103",
+        "zip_code": "44011",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MAYFIELD HEIGHTS",
+        "name": "COSTCO WHOLESALE MAYFIELD HEIGHTS",
+        "address": "1409 Golden Gate Blvd Cleveland OH 44124",
+        "latitude": 41.5257768,
+        "longitude": -81.446467,
+        "phone": "440-544-1350",
+        "zip_code": "44124",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CASTLETON",
+        "name": "COSTCO WHOLESALE CASTLETON",
+        "address": "6110 E 86th St Indianapolis IN 46250",
+        "latitude": 39.9138989,
+        "longitude": -86.0612446,
+        "phone": "317-558-1453",
+        "zip_code": "46250",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FORTUNE PARK",
+        "name": "COSTCO WHOLESALE FORTUNE PARK",
+        "address": "9010 Michigan Rd Indianapolis IN 46268",
+        "latitude": 39.917151,
+        "longitude": -86.2269658,
+        "phone": "317-532-1608",
+        "zip_code": "46268",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GLENVIEW",
+        "name": "COSTCO WHOLESALE GLENVIEW",
+        "address": "2900 Patriot Blvd Glenview IL 60026",
+        "latitude": 42.1071975,
+        "longitude": -87.8211407,
+        "phone": "847-730-1003",
+        "zip_code": "60026",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LENEXA",
+        "name": "COSTCO WHOLESALE LENEXA",
+        "address": "9350 Marshall Dr Lenexa KS 66215",
+        "latitude": 38.9591019,
+        "longitude": -94.73227999999999,
+        "phone": "913-227-3703",
+        "zip_code": "66215",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE S ST LOUIS",
+        "name": "COSTCO WHOLESALE S ST LOUIS",
+        "address": "4200 Rusty Rd St Louis  MO 63128",
+        "latitude": 38.5084828,
+        "longitude": -90.3386588,
+        "phone": "314-894-7953",
+        "zip_code": "63128",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE OVERLAND PARK",
+        "name": "COSTCO WHOLESALE OVERLAND PARK",
+        "address": "12221 Blue Valley Pkwy Overland Park KS 66213",
+        "latitude": 38.9068495,
+        "longitude": -94.6715169,
+        "phone": "913-217-2053",
+        "zip_code": "66213",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MERRILLVILLE",
+        "name": "COSTCO WHOLESALE MERRILLVILLE",
+        "address": "1310 E 79th Ave Merrillville IN 46410",
+        "latitude": 41.4744102,
+        "longitude": -87.3226284,
+        "phone": "219-641-6403",
+        "zip_code": "46410",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BLOOMINGDALE",
+        "name": "COSTCO WHOLESALE BLOOMINGDALE",
+        "address": "505 W Army Trail Rd Bloomingdale IL 60108",
+        "latitude": 41.941126,
+        "longitude": -88.1326765,
+        "phone": "630-351-3059",
+        "zip_code": "60108",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE COON RAPIDS",
+        "name": "COSTCO WHOLESALE COON RAPIDS",
+        "address": "12547 Riverdale Blvd Coon Rapids MN 55433",
+        "latitude": 45.1985688,
+        "longitude": -93.34779549999999,
+        "phone": "763-712-7763",
+        "zip_code": "55433",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE INDEPENDENCE",
+        "name": "COSTCO WHOLESALE INDEPENDENCE",
+        "address": "19040 E Valley View Pkwy Independence MO 64055",
+        "latitude": 39.0361394,
+        "longitude": -94.3571553,
+        "phone": "816-200-2003",
+        "zip_code": "64055",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LAKESIDE",
+        "name": "COSTCO WHOLESALE LAKESIDE",
+        "address": "45460 Market St Shelby Township MI 48315",
+        "latitude": 42.6306663,
+        "longitude": -82.97865379999999,
+        "phone": "586-580-2003",
+        "zip_code": "48315",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE KANSAS CITY",
+        "name": "COSTCO WHOLESALE KANSAS CITY",
+        "address": "241 E Linwood Blvd Kansas City MO 64111",
+        "latitude": 39.06756550000001,
+        "longitude": -94.58082139999999,
+        "phone": "816-216-0003",
+        "zip_code": "64111",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ABURN HILLS",
+        "name": "COSTCO WHOLESALE ABURN HILLS",
+        "address": "400 Brown Rd Auburn Hills MI 48326",
+        "latitude": 42.7064526,
+        "longitude": -83.2968623,
+        "phone": "248-648-0003",
+        "zip_code": "48326",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ST LOUIS PARK",
+        "name": "COSTCO WHOLESALE ST LOUIS PARK",
+        "address": "5801 W 16th St St. Louis Park MN 55416",
+        "latitude": 44.96691680000001,
+        "longitude": -93.35432139999999,
+        "phone": "763-582-9603",
+        "zip_code": "55416",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LAKE ZURICH",
+        "name": "COSTCO WHOLESALE LAKE ZURICH",
+        "address": "680 S Rand Rd Lake Zurich IL 60047",
+        "latitude": 42.1865315,
+        "longitude": -88.09312919999999,
+        "phone": "847-540-3050",
+        "zip_code": "60047",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LINCOLN  PARK",
+        "name": "COSTCO WHOLESALE LINCOLN  PARK",
+        "address": "2746 N Clybourn Ave Chicago  IL 60614",
+        "latitude": 41.9303324,
+        "longitude": -87.6772215,
+        "phone": "773-360-2053",
+        "zip_code": "60614",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ST PETERS",
+        "name": "COSTCO WHOLESALE ST PETERS",
+        "address": "200 Costco Way St. Peters MO 63376",
+        "latitude": 38.7964154,
+        "longitude": -90.607687,
+        "phone": "636-970-4004",
+        "zip_code": "63376",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NILES",
+        "name": "COSTCO WHOLESALE NILES",
+        "address": "7311 N Melvina Ave Niles  IL 60714",
+        "latitude": 42.0151028,
+        "longitude": -87.78080369999999,
+        "phone": "847-972-3003",
+        "zip_code": "60714",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DEERFIELD TOWNSHIP",
+        "name": "COSTCO WHOLESALE DEERFIELD TOWNSHIP",
+        "address": "9691 Waterstone Blvd Cincinnati OH 45249",
+        "latitude": 39.2949981,
+        "longitude": -84.3048925,
+        "phone": "513-774-0024",
+        "zip_code": "45249",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SCHAUMBURG",
+        "name": "COSTCO WHOLESALE SCHAUMBURG",
+        "address": "1375 N Meacham Rd Schaumburg IL 60173",
+        "latitude": 42.0550751,
+        "longitude": -88.0423998,
+        "phone": "847-969-0790",
+        "zip_code": "60173",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE OAK BROOK",
+        "name": "COSTCO WHOLESALE OAK BROOK",
+        "address": "1901 W 22nd St Oak Brook IL 60523",
+        "latitude": 41.8455275,
+        "longitude": -87.96502730000002,
+        "phone": "630-928-0235",
+        "zip_code": "60523",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LIVONIA I",
+        "name": "COSTCO WHOLESALE LIVONIA I",
+        "address": "13700 Middlebelt Rd Livonia MI 48150",
+        "latitude": 42.3811107,
+        "longitude": -83.3314829,
+        "phone": "734-427-0563",
+        "zip_code": "48150",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LIVONIA II",
+        "name": "COSTCO WHOLESALE LIVONIA II",
+        "address": "20000 Haggerty Rd Livonia MI 48152",
+        "latitude": 42.4330297,
+        "longitude": -83.43000219999999,
+        "phone": "734-464-6399",
+        "zip_code": "48152",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MADISON HEIGHTS",
+        "name": "COSTCO WHOLESALE MADISON HEIGHTS",
+        "address": "30550 Stephenson Hwy Madison Heights MI 48071",
+        "latitude": 42.5164029,
+        "longitude": -83.11731429999999,
+        "phone": "248-616-0048",
+        "zip_code": "48071",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ROSEVILLE",
+        "name": "COSTCO WHOLESALE ROSEVILLE",
+        "address": "27118 Gratiot Ave Roseville MI 48066",
+        "latitude": 42.4958339,
+        "longitude": -82.9350302,
+        "phone": "586-447-0191",
+        "zip_code": "48066",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE STRONGSVILLE",
+        "name": "COSTCO WHOLESALE STRONGSVILLE",
+        "address": "16690 Royalton Rd Strongsville OH 44136",
+        "latitude": 41.3165098,
+        "longitude": -81.8146739,
+        "phone": "440-783-3415",
+        "zip_code": "44136",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GRAFTON",
+        "name": "COSTCO WHOLESALE GRAFTON",
+        "address": "950 Port Washington Rd Grafton WI 53024",
+        "latitude": 43.3240443,
+        "longitude": -87.92072619999999,
+        "phone": "262-204-1050",
+        "zip_code": "53024",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE COLUMBUS",
+        "name": "COSTCO WHOLESALE COLUMBUS",
+        "address": "1500 Gemini Pl Columbus OH 43240",
+        "latitude": 40.1505797,
+        "longitude": -82.9767011,
+        "phone": "614-987-1900",
+        "zip_code": "43240",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LOUISVILLE",
+        "name": "COSTCO WHOLESALE LOUISVILLE",
+        "address": "5020 Norton Healthcare Blvd Louisville KY 40241",
+        "latitude": 38.316885,
+        "longitude": -85.573431,
+        "phone": "502-420-0162",
+        "zip_code": "40241",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ORLAND PARK",
+        "name": "COSTCO WHOLESALE ORLAND PARK",
+        "address": "9915 W 159th St Orland Park IL 60462",
+        "latitude": 41.59976020000001,
+        "longitude": -87.8614205,
+        "phone": "708-645-5336",
+        "zip_code": "60462",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MAPLE GROVE",
+        "name": "COSTCO WHOLESALE MAPLE GROVE",
+        "address": "11330 Fountains Dr N Maple Grove MN 55369",
+        "latitude": 45.0931332,
+        "longitude": -93.42381340000001,
+        "phone": "763-494-8050",
+        "zip_code": "55369",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WYOMING",
+        "name": "COSTCO WHOLESALE WYOMING",
+        "address": "4901 Wilson Ave SW Wyoming MI 49418",
+        "latitude": 42.8762908,
+        "longitude": -85.7634604,
+        "phone": "616-406-2651",
+        "zip_code": "49418",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LAKE IN THE HILLS",
+        "name": "COSTCO WHOLESALE LAKE IN THE HILLS",
+        "address": "250 N Randall Rd Lake in the Hills IL 60156",
+        "latitude": 42.1785888,
+        "longitude": -88.33915600000002,
+        "phone": "847-960-9910",
+        "zip_code": "60156",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MT PROSPECT",
+        "name": "COSTCO WHOLESALE MT PROSPECT",
+        "address": "999 Elmhurst Rd Mt Prospect IL 60056",
+        "latitude": 42.0476937,
+        "longitude": -87.9403797,
+        "phone": "847-660-2001",
+        "zip_code": "60056",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EDEN PRAIRIE",
+        "name": "COSTCO WHOLESALE EDEN PRAIRIE",
+        "address": "12011 Technology Dr Eden Prairie MN 55344",
+        "latitude": 44.8603823,
+        "longitude": -93.4353222,
+        "phone": "952-943-4801",
+        "zip_code": "55344",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GRAND RAPIDS",
+        "name": "COSTCO WHOLESALE GRAND RAPIDS",
+        "address": "5100 28th St SE Grand Rapids MI 49512",
+        "latitude": 42.910796,
+        "longitude": -85.5435167,
+        "phone": "616-233-4401",
+        "zip_code": "49512",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GREEN OAK TOWNSHIP",
+        "name": "COSTCO WHOLESALE GREEN OAK TOWNSHIP",
+        "address": "6700 Whitmore Lake Rd Brighton MI 48116",
+        "latitude": 42.5025439,
+        "longitude": -83.76054510000002,
+        "phone": "810-220-8950",
+        "zip_code": "48116",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WEST DES MOINES",
+        "name": "COSTCO WHOLESALE WEST DES MOINES",
+        "address": "7205 Mills Civic Pkwy West Des Moines IA 50266",
+        "latitude": 41.5627286,
+        "longitude": -93.8051187,
+        "phone": "515-222-2920",
+        "zip_code": "50266",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE TOLEDO",
+        "name": "COSTCO WHOLESALE TOLEDO",
+        "address": "3405 W Central Ave Toledo OH 43606",
+        "latitude": 41.67693930000001,
+        "longitude": -83.6265933,
+        "phone": "419-381-5000",
+        "zip_code": "43606",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE OMAHA",
+        "name": "COSTCO WHOLESALE OMAHA",
+        "address": "12300 W Dodge Rd Omaha NE 68154",
+        "latitude": 41.2638687,
+        "longitude": -96.1044991,
+        "phone": "402-952-3240",
+        "zip_code": "68154",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MIDDLETON",
+        "name": "COSTCO WHOLESALE MIDDLETON",
+        "address": "2150 Deming Way Middleton WI 53562",
+        "latitude": 43.1012809,
+        "longitude": -89.5191543,
+        "phone": "608-824-3950",
+        "zip_code": "53562",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MAPLEWOOD",
+        "name": "COSTCO WHOLESALE MAPLEWOOD",
+        "address": "1431 Beam Ave Maplewood MN 55109",
+        "latitude": 45.0290531,
+        "longitude": -93.0405555,
+        "phone": "612-486-1740",
+        "zip_code": "55109",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BLOOMFIELD",
+        "name": "COSTCO WHOLESALE BLOOMFIELD",
+        "address": "2343 S Telegraph Rd Bloomfield MI 48302",
+        "latitude": 42.6070286,
+        "longitude": -83.29272,
+        "phone": "248-836-1603",
+        "zip_code": "48302",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SAINT CHARLES",
+        "name": "COSTCO WHOLESALE SAINT CHARLES",
+        "address": "221 S Randall Rd St Charles IL 60174",
+        "latitude": 41.9092959,
+        "longitude": -88.3432339,
+        "phone": "630-549-2024",
+        "zip_code": "60174",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MANCHESTER",
+        "name": "COSTCO WHOLESALE MANCHESTER",
+        "address": "301 Highlands Boulevard Dr Manchester MO  63011",
+        "latitude": 38.5974849,
+        "longitude": -90.5077961,
+        "phone": "636-686-7400",
+        "zip_code": "63011",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE METTAWA",
+        "name": "COSTCO WHOLESALE METTAWA",
+        "address": "25901 Riverwoods Rd Mettawa IL 60045",
+        "latitude": 42.2374898,
+        "longitude": -87.9034439,
+        "phone": "847-235-1302",
+        "zip_code": "60045",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MELROSE PARK",
+        "name": "COSTCO WHOLESALE MELROSE PARK",
+        "address": "8400 W North Ave Melrose Park IL 60160",
+        "latitude": 41.90923,
+        "longitude": -87.8369476,
+        "phone": "708-397-2905",
+        "zip_code": "60160",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BURNSVILLE",
+        "name": "COSTCO WHOLESALE BURNSVILLE",
+        "address": "14050 Burnhaven Dr Burnsville MN 55337",
+        "latitude": 44.7512017,
+        "longitude": -93.29393789999999,
+        "phone": "952-229-6449",
+        "zip_code": "55337",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BOLINGBROOK",
+        "name": "COSTCO WHOLESALE BOLINGBROOK",
+        "address": "830 E Boughton Rd Bolingbrook IL 60440",
+        "latitude": 41.727212,
+        "longitude": -88.0330797,
+        "phone": "630-410-0702",
+        "zip_code": "60440",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PEWAUKEE",
+        "name": "COSTCO WHOLESALE PEWAUKEE",
+        "address": "443 Pewaukee Rd Pewaukee WI 53072",
+        "latitude": 43.0889915,
+        "longitude": -88.23090429999999,
+        "phone": "262-956-6700",
+        "zip_code": "53072",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PITTSFIELD TOWNSHIP",
+        "name": "COSTCO WHOLESALE PITTSFIELD TOWNSHIP",
+        "address": "771 Airport Blvd Ann Arbor MI 48108",
+        "latitude": 42.2313591,
+        "longitude": -83.7429378,
+        "phone": "734-213-8010",
+        "zip_code": "48108",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CHICAGO SOUTH LOOP",
+        "name": "COSTCO WHOLESALE CHICAGO SOUTH LOOP",
+        "address": "1430 S Ashland Ave Chicago  IL 60608",
+        "latitude": 41.8620829,
+        "longitude": -87.66782339999999,
+        "phone": "312-492-3609",
+        "zip_code": "60608",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CORALVILLE",
+        "name": "COSTCO WHOLESALE CORALVILLE",
+        "address": "2900 Heartland Dr Coralville IA 52241",
+        "latitude": 41.69797440000001,
+        "longitude": -91.61689129999999,
+        "phone": "319-545-3200",
+        "zip_code": "52241",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WEST FARGO",
+        "name": "COSTCO WHOLESALE WEST FARGO",
+        "address": "750 - 23rd Ave E West Fargo ND 58078",
+        "latitude": 46.84455,
+        "longitude": -96.88435369999999,
+        "phone": "701-281-2220",
+        "zip_code": "58078",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SUN PRAIRIE",
+        "name": "COSTCO WHOLESALE SUN PRAIRIE",
+        "address": "2850 Hoepker RD Sun Prairie WI 53590",
+        "latitude": 43.1681049,
+        "longitude": -89.2737207,
+        "phone": "608-825-4001",
+        "zip_code": "53590",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BAXTER",
+        "name": "COSTCO WHOLESALE BAXTER",
+        "address": "13650 Elder Dr Baxter MN 56425",
+        "latitude": 46.3487652,
+        "longitude": -94.2478934,
+        "phone": "218-855-5740",
+        "zip_code": "56425",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ROCHESTER",
+        "name": "COSTCO WHOLESALE ROCHESTER",
+        "address": "2020 Commerce Dr NW Rochester MN 55901",
+        "latitude": 44.0454235,
+        "longitude": -92.51687340000001,
+        "phone": "507-286-1860",
+        "zip_code": "55901",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EAST PEORIA",
+        "name": "COSTCO WHOLESALE EAST PEORIA",
+        "address": "301W Washington St East Peoria IL 61611",
+        "latitude": 40.6639863,
+        "longitude": -89.57552179999999,
+        "phone": "309-427-2930",
+        "zip_code": "61611",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE N RIVERSIDE",
+        "name": "COSTCO WHOLESALE N RIVERSIDE",
+        "address": "2500 S Harlem Ave N Riverside IL 60546",
+        "latitude": 41.84476739999999,
+        "longitude": -87.8052257,
+        "phone": "708-853-1017",
+        "zip_code": "60546",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LEXINGTON",
+        "name": "COSTCO WHOLESALE LEXINGTON",
+        "address": "1500 Fitzgerald Ct Lexington KY 40509",
+        "latitude": 38.0249613,
+        "longitude": -84.4087309,
+        "phone": "859-245-3620",
+        "zip_code": "40509",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SIOUX FALLS",
+        "name": "COSTCO WHOLESALE SIOUX FALLS",
+        "address": "3700 S Grange Ave Soiux Falls SD 57105",
+        "latitude": 43.5121512,
+        "longitude": -96.7394003,
+        "phone": "605-988-9140",
+        "zip_code": "57105",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EASTON",
+        "name": "COSTCO WHOLESALE EASTON",
+        "address": "3888 Stelzer Rd Columbus OH 43219",
+        "latitude": 40.05350749999999,
+        "longitude": -82.908279,
+        "phone": "614-934-6211",
+        "zip_code": "43219",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FT WAYNE",
+        "name": "COSTCO WHOLESALE FT WAYNE",
+        "address": "5110 Value Dr Ft Wayne IN 46808",
+        "latitude": 41.1249328,
+        "longitude": -85.15754989999999,
+        "phone": "260-481-1100",
+        "zip_code": "46808",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GREEN BAY",
+        "name": "COSTCO WHOLESALE GREEN BAY",
+        "address": "2355 Costco Way Bellevue WI 54311",
+        "latitude": 44.4588138,
+        "longitude": -87.9852471,
+        "phone": "920-469-5700",
+        "zip_code": "54311",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MISHAWAKA",
+        "name": "COSTCO WHOLESALE MISHAWAKA",
+        "address": "625 E University Dr Granger IN 46530",
+        "latitude": 41.7188381,
+        "longitude": -86.1719969,
+        "phone": "574-401-7004",
+        "zip_code": "46530",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CENTERVILLE",
+        "name": "COSTCO WHOLESALE CENTERVILLE",
+        "address": "5300 Cornerstone N Blvd Centerville OH 45440",
+        "latitude": 39.6630064,
+        "longitude": -84.1059056,
+        "phone": "937-640-6000",
+        "zip_code": "45440",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE KALAMAZOO",
+        "name": "COSTCO WHOLESALE KALAMAZOO",
+        "address": "5100 Century Ave Kalamazoo MI 49006",
+        "latitude": 42.2714758,
+        "longitude": -85.6501103,
+        "phone": "269-743-2298",
+        "zip_code": "49006",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PERRYSBURG",
+        "name": "COSTCO WHOLESALE PERRYSBURG",
+        "address": "26400 Dixie Hwy Perrysburg OH 43551",
+        "latitude": 41.5342153,
+        "longitude": -83.6328477,
+        "phone": "567-368-6000",
+        "zip_code": "43551",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE FLORENCE",
+        "name": "COSTCO WHOLESALE FLORENCE",
+        "address": "800 Heights Blvd Florence KY 41042",
+        "latitude": 38.9885248,
+        "longitude": -84.6456236,
+        "phone": "859-568-7000",
+        "zip_code": "41042",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PLEASANT PRAIRIE",
+        "name": "COSTCO WHOLESALE PLEASANT PRAIRIE",
+        "address": "7707 - 94th Ave Pleasant Prairie WI 53158",
+        "latitude": 42.5646055,
+        "longitude": -87.9193841,
+        "phone": "262-597-1027",
+        "zip_code": "53158",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MENOMONEE FALLS",
+        "name": "COSTCO WHOLESALE MENOMONEE FALLS",
+        "address": "W162N9235 Pershing Ave Menomonee Falls WI 53051",
+        "latitude": 43.1852284,
+        "longitude": -88.1126634,
+        "phone": "262-946-6060",
+        "zip_code": "53051",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NEW BERLIN",
+        "name": "COSTCO WHOLESALE NEW BERLIN",
+        "address": "15300 W Grange Ave New Berlin WI 53151",
+        "latitude": 42.94584,
+        "longitude": -88.1056443,
+        "phone": "262-599-7030",
+        "zip_code": "53151",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GRAND CHUTE",
+        "name": "COSTCO WHOLESALE GRAND CHUTE",
+        "address": "5401 W Integrity Way Grand Chute WI 54913",
+        "latitude": 44.2704966,
+        "longitude": -88.48821439999999,
+        "phone": "920-815-4500",
+        "zip_code": "54913",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BOSTON HEIGHTS",
+        "name": "COSTCO WHOLESALE BOSTON HEIGHTS",
+        "address": "6720 Bass Pro Dr Boston Heights OH 44236",
+        "latitude": 41.2649925,
+        "longitude": -81.5071784,
+        "phone": "330-341-7000",
+        "zip_code": "44236",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE S INDIANAPOLIS",
+        "name": "COSTCO WHOLESALE S INDIANAPOLIS",
+        "address": "4628 E County Line Rd Indianapolis IN 46237",
+        "latitude": 39.6384185,
+        "longitude": -86.08927349999999,
+        "phone": "317-360-7076",
+        "zip_code": "46237",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LA VISTA",
+        "name": "COSTCO WHOLESALE LA VISTA",
+        "address": "12515 Portside Pky La Vista NE 68128",
+        "latitude": 41.177153,
+        "longitude": -96.10864219999999,
+        "phone": "402-378-7398",
+        "zip_code": "68128",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LOUISVILLE",
+        "name": "COSTCO WHOLESALE LOUISVILLE",
+        "address": "3408 Bardstown Rd Louisville KY 40218",
+        "latitude": 38.2036142,
+        "longitude": -85.6682096,
+        "phone": "502-912-9869",
+        "zip_code": "40218",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NW COLUMBUS",
+        "name": "COSTCO WHOLESALE NW COLUMBUS",
+        "address": "7300 SR 161 E Plain City OH 43064",
+        "latitude": 40.1104554,
+        "longitude": -83.1900194,
+        "phone": "614-733-5002",
+        "zip_code": "43064",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE N KANSAS CITY",
+        "name": "COSTCO WHOLESALE N KANSAS CITY",
+        "address": "1600 NW 88th St Kanasas City MO 64155",
+        "latitude": 39.2538743,
+        "longitude": -94.5977207,
+        "phone": "816-857-7086",
+        "zip_code": "64155",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE WOODBURY",
+        "name": "COSTCO WHOLESALE WOODBURY",
+        "address": "7070 Tamarack Rd Woodbury MN 55125",
+        "latitude": 44.9374685,
+        "longitude": -92.9634959,
+        "phone": "612-540-5458",
+        "zip_code": "55125",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE E LANSING",
+        "name": "COSTCO WHOLESALE E LANSING",
+        "address": "2540 E Saginaw Hwy E Lansing MI 48823",
+        "latitude": 42.7517769,
+        "longitude": -84.4436881,
+        "phone": "517-903-5000",
+        "zip_code": "48823",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE TRAVERSE CITY",
+        "name": "COSTCO WHOLESALE TRAVERSE CITY",
+        "address": "125 E South Airport Rd Traverse City MI 49686",
+        "latitude": 44.7351085,
+        "longitude": -85.5711733,
+        "phone": "231-252-7000",
+        "zip_code": "49686",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LINCOLN",
+        "name": "COSTCO WHOLESALE LINCOLN",
+        "address": "1620 Pine Lake Rd Lincoln NE 68512",
+        "latitude": 40.7400486,
+        "longitude": -96.6948736,
+        "phone": "531-333-7559",
+        "zip_code": "68512",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DAVENPORT",
+        "name": "COSTCO WHOLESALE DAVENPORT",
+        "address": "2790 E 53rd St Davenport IA 52807",
+        "latitude": 41.5753482,
+        "longitude": -90.53344320000001,
+        "phone": "563-893-7004",
+        "zip_code": "52807",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EVANSVILLE",
+        "name": "COSTCO WHOLESALE EVANSVILLE",
+        "address": "1201 Cross Pointe Pl Evansville IN 47715",
+        "latitude": 37.9884248,
+        "longitude": -87.4639275,
+        "phone": "812-909-6580",
+        "zip_code": "47715",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ST CLOUD",
+        "name": "COSTCO WHOLESALE ST CLOUD",
+        "address": "3636 2nd St S St Cloud MN 56301",
+        "latitude": 45.54862079999999,
+        "longitude": -94.2026528,
+        "phone": "320-316-9865",
+        "zip_code": "56301",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LOVES PARK",
+        "name": "COSTCO WHOLESALE LOVES PARK",
+        "address": "5000 Stadium Dr Loves Park IL 61111",
+        "latitude": 42.3217103,
+        "longitude": -88.9619398,
+        "phone": "779-513-8397",
+        "zip_code": "61111",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EAGAN",
+        "name": "COSTCO WHOLESALE EAGAN",
+        "address": "995 Blue Gentian Rd Eagan MN 55121",
+        "latitude": 44.8601821,
+        "longitude": -93.1403871,
+        "phone": "612-439-8060",
+        "zip_code": "55121",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE BISMARCK",
+        "name": "COSTCO WHOLESALE BISMARCK",
+        "address": "1325 NE 57th Ave Bismarck ND 58503",
+        "latitude": 46.8665099,
+        "longitude": -100.7711807,
+        "phone": "701-415-7003",
+        "zip_code": "58503",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CHAMPAIGN",
+        "name": "COSTCO WHOLESALE CHAMPAIGN",
+        "address": "2002 N Neil St Champaign IL 61820",
+        "latitude": 40.1429456,
+        "longitude": -88.2447258,
+        "phone": "217-600-6538",
+        "zip_code": "61820",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE PLAINFIELD",
+        "name": "COSTCO WHOLESALE PLAINFIELD",
+        "address": "16261 S Boulevard Pl Plainfield IL 60586",
+        "latitude": 41.5877145,
+        "longitude": -88.16814649999999,
+        "phone": "815-676-1170",
+        "zip_code": "60586",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE MIDLAND",
+        "name": "COSTCO WHOLESALE MIDLAND",
+        "address": "4816 Bay City Rd Midland MI 48642",
+        "latitude": 43.6045522,
+        "longitude": -84.1683509,
+        "phone": "989-488-1553",
+        "zip_code": "48642",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE DULUTH",
+        "name": "COSTCO WHOLESALE DULUTH",
+        "address": "4611 W Arrowhead Rd Duluth MN 55811",
+        "latitude": 46.8241186,
+        "longitude": -92.17233739999999,
+        "phone": "218-600-5978",
+        "zip_code": "55811",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NE NAPERVILLE",
+        "name": "COSTCO WHOLESALE NE NAPERVILLE",
+        "address": "1255 E Ogden Ave Naperville IL 60563",
+        "latitude": 41.7985936,
+        "longitude": -88.12386359999999,
+        "phone": "331-215-5612",
+        "zip_code": "60563",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE SPRINGFIELD",
+        "name": "COSTCO WHOLESALE SPRINGFIELD",
+        "address": "279 N Eastgate Ave Springfield MO 65802",
+        "latitude": 37.2071295,
+        "longitude": -93.2245525,
+        "phone": "417-512-8939",
+        "zip_code": "65802",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE UNIVERSITY CITY",
+        "name": "COSTCO WHOLESALE UNIVERSITY CITY",
+        "address": "8685 Olive Blvd University City MO 63132",
+        "latitude": 38.6745583,
+        "longitude": -90.3602163,
+        "phone": "314-219-5300",
+        "zip_code": "63132",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE VERONA",
+        "name": "COSTCO WHOLESALE VERONA",
+        "address": "1000 Batker Ct Verona WI 53593",
+        "latitude": 42.9706921,
+        "longitude": -89.5092609,
+        "phone": "608-497-8355",
+        "zip_code": "53593",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE AVON",
+        "name": "COSTCO WHOLESALE AVON",
+        "address": "8816 Dr Charles Nelson Dr Avon IN 46123",
+        "latitude": 39.7662668,
+        "longitude": -86.3658057,
+        "phone": "317-286-4742",
+        "zip_code": "46123",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE ANKENY",
+        "name": "COSTCO WHOLESALE ANKENY",
+        "address": "4000 NE Spectrum Dr Ankeny IA 50021",
+        "latitude": 41.763976,
+        "longitude": -93.566971,
+        "phone": "515-686-8709",
+        "zip_code": "50021",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE LIBERTY TOWNSHIP",
+        "name": "COSTCO WHOLESALE LIBERTY TOWNSHIP",
+        "address": "7135 Veterans Blvd Liberty Township OH 45044",
+        "latitude": 39.3722852,
+        "longitude": -84.35743049999999,
+        "phone": "513-346-7940",
+        "zip_code": "45044",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE N CANTON",
+        "name": "COSTCO WHOLESALE N CANTON",
+        "address": "4953 Huckleberry St NW Canton OH 44720",
+        "latitude": 40.8852532,
+        "longitude": -81.4401973,
+        "phone": "330-818-0000",
+        "zip_code": "44720",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE CHASKA",
+        "name": "COSTCO WHOLESALE CHASKA",
+        "address": "2 Oakridge Dr Chaska MN 55318",
+        "latitude": 44.84104139999999,
+        "longitude": -93.6002151,
+        "phone": "952-513-2821",
+        "zip_code": "55318",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE EAU CLAIRE",
+        "name": "COSTCO WHOLESALE EAU CLAIRE",
+        "address": "1420 Black Ave Eau Claire WI 54703",
+        "latitude": 44.830393,
+        "longitude": -91.44759599999999,
+        "phone": "715-598-6755",
+        "zip_code": "54703",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NOBLEsVILLE",
+        "name": "COSTCO WHOLESALE NOBLEsVILLE",
+        "address": "14775 North Pointe Blvd Noblesville  IN 46060",
+        "latitude": 40.0040324,
+        "longitude": -86.0006324,
+        "phone": "463-238-2013",
+        "zip_code": "46060",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE NW OMAHA",
+        "name": "COSTCO WHOLESALE NW OMAHA",
+        "address": "17701 Evans St Omaha NE 68116",
+        "latitude": 41.289706,
+        "longitude": -96.19255899999999,
+        "phone": "531--484-4259",
+        "zip_code": "68116",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "COSTCO WHOLESALE GENESEE COUNTY",
+        "name": "COSTCO WHOLESALE GENESEE COUNTY",
+        "address": "6200 Lafotaine Way Flint MI 48507",
+        "latitude": 42.9376542,
+        "longitude": -83.7199085,
+        "phone": "810-496-6829",
+        "zip_code": "48507",
+        "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    }
 ]
