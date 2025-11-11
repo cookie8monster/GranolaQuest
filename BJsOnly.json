@@ -1,0 +1,3827 @@
+[
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "278 Middlesex Avenue, Medford, MA, 02155",
+        "latitude": 42.4133284,
+        "longitude": -71.08264700000001,
+        "phone": "",
+        "zip_code": "02155",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "Northway Mall, 1440 Central Ave., Albany, NY, 12205",
+        "latitude": 42.7065068,
+        "longitude": -73.8239389,
+        "phone": "",
+        "zip_code": "12205",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "300 Route 17 (Northbound), E. Rutherford, NJ, 07073",
+        "latitude": 40.8240731,
+        "longitude": -74.09667519999999,
+        "phone": "",
+        "zip_code": "07073",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6924 Frank Avenue NW, N. Canton, OH, 44720",
+        "latitude": 40.881688,
+        "longitude": -81.4399158,
+        "phone": "",
+        "zip_code": "44720",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4000 Nesconset Highway, E. Setauket, NY, 11733",
+        "latitude": 40.904135,
+        "longitude": -73.07655799999999,
+        "phone": "",
+        "zip_code": "11733",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "131 East Kings Highway, Maple Shade, NJ, 08052",
+        "latitude": 39.9492611,
+        "longitude": -74.9744421,
+        "phone": "",
+        "zip_code": "08052",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "124 Sunset Blvd., New Castle, DE, 19720",
+        "latitude": 39.6682411,
+        "longitude": -75.5986209,
+        "phone": "",
+        "zip_code": "19720",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "70 Cluff Road, Salem, NH, 03079",
+        "latitude": 42.7669769,
+        "longitude": -71.214951,
+        "phone": "",
+        "zip_code": "03079",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "622 Washington Street, Weymouth, MA, 02188",
+        "latitude": 42.2060514,
+        "longitude": -70.9516077,
+        "phone": "",
+        "zip_code": "02188",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "110 Centerville Road, Lancaster, PA, 17603",
+        "latitude": 40.0437434,
+        "longitude": -76.39230510000002,
+        "phone": "",
+        "zip_code": "17603",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "650 Memorial Drive, Chicopee, MA, 01020",
+        "latitude": 42.17484959999999,
+        "longitude": -72.5800028,
+        "phone": "",
+        "zip_code": "01020",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1785 Airport Road South, Allentown, PA, 18109",
+        "latitude": 40.6356152,
+        "longitude": -75.4341086,
+        "phone": "",
+        "zip_code": "18109",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2044 Red Lion Road, Philadelphia, PA, 19115",
+        "latitude": 40.0993506,
+        "longitude": -75.0242411,
+        "phone": "",
+        "zip_code": "19115",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "460 State Road, N. Dartmouth, MA, 02747",
+        "latitude": 41.6436708,
+        "longitude": -70.9996841,
+        "phone": "",
+        "zip_code": "02747",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1000 US Highway 1, Edison, NJ, 08817-4899",
+        "latitude": 40.51801750000001,
+        "longitude": -74.3661701,
+        "phone": "",
+        "zip_code": "08817-4899",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1904 Route 35S, Oakhurst, NJ, 07755",
+        "latitude": 40.2613515,
+        "longitude": -74.02359299999999,
+        "phone": "",
+        "zip_code": "07755",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "513-515 Warren Avenue, Portland, ME, 04103-1005",
+        "latitude": 43.6886,
+        "longitude": -70.3195338,
+        "phone": "",
+        "zip_code": "04103-1005",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6 Hutchinson Drive, Danvers, MA, 01923",
+        "latitude": 42.5517884,
+        "longitude": -70.93145969999999,
+        "phone": "",
+        "zip_code": "01923",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "40 Black Rock Turnpike, Fairfield, CT, 06825-5507",
+        "latitude": 41.1627234,
+        "longitude": -73.2299072,
+        "phone": "",
+        "zip_code": "06825-5507",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "500 State Road 7, Royal Palm Beach, FL, 33411",
+        "latitude": 26.6684501,
+        "longitude": -80.2025307,
+        "phone": "",
+        "zip_code": "33411",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "13053 Fair Lakes Shopping Center, Fairfax, VA, 22033",
+        "latitude": 38.8565915,
+        "longitude": -77.3934479,
+        "phone": "",
+        "zip_code": "22033",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "901 Technology Center Drive, Stoughton, MA, 02072",
+        "latitude": 42.1472873,
+        "longitude": -71.0653055,
+        "phone": "",
+        "zip_code": "02072",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4408 Milestrip Rd., Blasdell, NY, 14219",
+        "latitude": 42.7911972,
+        "longitude": -78.81384129999999,
+        "phone": "",
+        "zip_code": "14219",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3712 Virginia Beach Blvd., Virginia Beach, VA, 23452",
+        "latitude": 36.8419604,
+        "longitude": -76.10118829999999,
+        "phone": "",
+        "zip_code": "23452",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "344 Reidville Drive, Waterbury, CT, 06705",
+        "latitude": 41.5364154,
+        "longitude": -73.0022664,
+        "phone": "",
+        "zip_code": "06705",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "777 Washington Street, Auburn, MA, 01501",
+        "latitude": 42.18116029999999,
+        "longitude": -71.853186,
+        "phone": "",
+        "zip_code": "01501",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8 Sexton Avenue, Nashua, NH, 03060",
+        "latitude": 42.72878840000001,
+        "longitude": -71.4501131,
+        "phone": "",
+        "zip_code": "03060",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4201 Wholesale Club Drive, Baltimore, MD, 21236",
+        "latitude": 39.3797578,
+        "longitude": -76.49859889999999,
+        "phone": "",
+        "zip_code": "21236",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "14123 Noblewood Plaza, Woodbridge, VA, 22193",
+        "latitude": 38.6495506,
+        "longitude": -77.31287809999999,
+        "phone": "",
+        "zip_code": "22193",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "396-420 Luis Munoz Marin Blvd., Jersey City, NJ, 07302",
+        "latitude": 40.7227138,
+        "longitude": -74.03836729999999,
+        "phone": "",
+        "zip_code": "07302",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "Two Chevy Drive, E. Syracuse, NY, 13057",
+        "latitude": 43.061233,
+        "longitude": -76.064785,
+        "phone": "",
+        "zip_code": "13057",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "101 South Van Dorn Street, Alexandria, VA, 22304",
+        "latitude": 38.8131504,
+        "longitude": -77.1325171,
+        "phone": "",
+        "zip_code": "22304",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "26 Whittier Street, Framingham, MA, 01701",
+        "latitude": 42.3066992,
+        "longitude": -71.39894749999999,
+        "phone": "",
+        "zip_code": "01701",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "One Howard Blvd., Ledgewood, NJ, 07852",
+        "latitude": 40.888168,
+        "longitude": -74.6435306,
+        "phone": "",
+        "zip_code": "07852",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1000 Old Nichols Road, Islandia, NY, 11749",
+        "latitude": 40.8120494,
+        "longitude": -73.1608559,
+        "phone": "",
+        "zip_code": "11749",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "85 Cedar Street, Stoneham, MA, 02180",
+        "latitude": 42.498466,
+        "longitude": -71.1200204,
+        "phone": "",
+        "zip_code": "02180",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7007 SW 117th Avenue, Miami, FL, 33183",
+        "latitude": 25.7038375,
+        "longitude": -80.3814051,
+        "phone": "",
+        "zip_code": "33183",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "Court at Oxford Valley, 350 Commerce Blvd, Fairless Hills, PA, 19030",
+        "latitude": 40.1872935,
+        "longitude": -74.8641943,
+        "phone": "",
+        "zip_code": "19030",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1404 US Route 9, Wappingers Falls, NY, 12590",
+        "latitude": 41.5821975,
+        "longitude": -73.90385549999999,
+        "phone": "",
+        "zip_code": "12590",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "13700 Pines Blvd., Pembroke Pines, FL, 33027",
+        "latitude": 26.0052084,
+        "longitude": -80.3321093,
+        "phone": "",
+        "zip_code": "33027",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "287 Washington Street, S. Attleboro, MA, 02703",
+        "latitude": 41.9216541,
+        "longitude": -71.3599563,
+        "phone": "",
+        "zip_code": "02703",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1260 Woodland Avenue, Springfield, PA, 19064",
+        "latitude": 39.9098303,
+        "longitude": -75.3311902,
+        "phone": "",
+        "zip_code": "19064",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "550 Madison Avenue, Reading, PA, 19605",
+        "latitude": 40.3728322,
+        "longitude": -75.92817869999999,
+        "phone": "",
+        "zip_code": "19605",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "115 Erdman Way, Leominster, MA, 01453",
+        "latitude": 42.5472711,
+        "longitude": -71.7559461,
+        "phone": "",
+        "zip_code": "01453",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8139 Governor Ritchie Highway, Pasadena, MD, 21122",
+        "latitude": 39.1254873,
+        "longitude": -76.58469,
+        "phone": "",
+        "zip_code": "21122",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "9011 Snowden River Parkway, Columbia, MD, 21046",
+        "latitude": 39.1814701,
+        "longitude": -76.8181266,
+        "phone": "",
+        "zip_code": "21046",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "55 Music Fair Road, Owings Mills, MD, 21117",
+        "latitude": 39.4073255,
+        "longitude": -76.7763196,
+        "phone": "",
+        "zip_code": "21117",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1801 Woodbury Avenue, Portsmouth, NH, 03801",
+        "latitude": 43.0895901,
+        "longitude": -70.7905876,
+        "phone": "",
+        "zip_code": "03801",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2250 York Crossing Drive, York, PA, 17408",
+        "latitude": 39.9640255,
+        "longitude": -76.7758506,
+        "phone": "",
+        "zip_code": "17408",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "400 River Road Rear, Utica, NY, 13502",
+        "latitude": 43.1266466,
+        "longitude": -75.2225636,
+        "phone": "",
+        "zip_code": "13502",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3067 Route 50, Saratoga Springs, NY, 12866",
+        "latitude": 43.0996889,
+        "longitude": -73.7363409,
+        "phone": "",
+        "zip_code": "12866",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1001 East Edgar Road, Linden, NJ, 07036",
+        "latitude": 40.6385764,
+        "longitude": -74.2337063,
+        "phone": "",
+        "zip_code": "07036",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4145 Route 31, Clay, NY, 13041",
+        "latitude": 43.18965559999999,
+        "longitude": -76.23234149999999,
+        "phone": "",
+        "zip_code": "13041",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3985 Plank Road, Fredericksburg, VA, 22407",
+        "latitude": 38.2922926,
+        "longitude": -77.5272501,
+        "phone": "",
+        "zip_code": "22407",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2301 Taylor Road, Chesapeake, VA, 23321",
+        "latitude": 36.8220303,
+        "longitude": -76.407934,
+        "phone": "",
+        "zip_code": "23321",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "413 Constant Friendship Blvd., Abingdon, MD, 21009",
+        "latitude": 39.4545874,
+        "longitude": -76.3199472,
+        "phone": "",
+        "zip_code": "21009",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1000 St. Nicholas Drive, Waldorf, MD, 20603",
+        "latitude": 38.6139826,
+        "longitude": -76.9335875,
+        "phone": "",
+        "zip_code": "20603",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1601 Route 22 West, Watchung, NJ, 07069",
+        "latitude": 40.6441613,
+        "longitude": -74.4158929,
+        "phone": "",
+        "zip_code": "07069",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 Wrangleboro Road, Mays Landing, NJ, 08330",
+        "latitude": 39.4510719,
+        "longitude": -74.6285146,
+        "phone": "",
+        "zip_code": "08330",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "950 Ridge Road, Webster, NY, 14580",
+        "latitude": 43.2106879,
+        "longitude": -77.4653464,
+        "phone": "",
+        "zip_code": "14580",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3303 Crompond Road, Yorktown Heights, NY, 10598",
+        "latitude": 41.290396,
+        "longitude": -73.828859,
+        "phone": "",
+        "zip_code": "10598",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1050 Palisades Center Drive, W. Nyack, NY, 10994",
+        "latitude": 41.098018,
+        "longitude": -73.9589778,
+        "phone": "",
+        "zip_code": "10994",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "507 New Park Avenue, W. Hartford, CT, 06110",
+        "latitude": 41.7393405,
+        "longitude": -72.7209823,
+        "phone": "",
+        "zip_code": "06110",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "70 West Campbell Road, Rotterdam, NY, 12306",
+        "latitude": 42.80757089999999,
+        "longitude": -73.9941109,
+        "phone": "",
+        "zip_code": "12306",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "125 Cross Road, Waterford, CT, 06385",
+        "latitude": 41.3745468,
+        "longitude": -72.1601829,
+        "phone": "",
+        "zip_code": "06385",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1910 Deptford Center Road, Deptford, NJ, 08096",
+        "latitude": 39.8315632,
+        "longitude": -75.09165709999999,
+        "phone": "",
+        "zip_code": "08096",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1008 E. Lancaster Avenue, Downingtown, PA, 19335",
+        "latitude": 40.0156436,
+        "longitude": -75.6813537,
+        "phone": "",
+        "zip_code": "19335",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "10425 Marlin Road, Miami, FL, 33157",
+        "latitude": 25.5903248,
+        "longitude": -80.36124310000001,
+        "phone": "",
+        "zip_code": "33157",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "300 Alan Wood Road, Conshohocken, 19428, (Plymouth",
+        "latitude": 40.0958944,
+        "longitude": -75.3048275,
+        "phone": "",
+        "zip_code": "(Plymouth",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "555 Universal Drive, North Haven, CT, 06473",
+        "latitude": 41.3590387,
+        "longitude": -72.8703788,
+        "phone": "",
+        "zip_code": "06473",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "110 Route 23 North, Riverdale, NJ, 07457",
+        "latitude": 40.9894878,
+        "longitude": -74.33045179999999,
+        "phone": "",
+        "zip_code": "07457",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "36595 Euclid Avenue, Willoughby, OH, 44094",
+        "latitude": 41.6311712,
+        "longitude": -81.42604709999999,
+        "phone": "",
+        "zip_code": "44094",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "137-05 20th Avenue, College Point, NY, 11356",
+        "latitude": 40.783671,
+        "longitude": -73.8317979,
+        "phone": "",
+        "zip_code": "11356",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "941 Route 37 West, Toms River, NJ, 08755",
+        "latitude": 39.9725375,
+        "longitude": -74.2412258,
+        "phone": "",
+        "zip_code": "08755",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "688 Providence Highway, Dedham, MA, 02026",
+        "latitude": 42.242156,
+        "longitude": -71.174477,
+        "phone": "",
+        "zip_code": "02026",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1677 Home Avenue, Akron, OH, 44310",
+        "latitude": 41.115889,
+        "longitude": -81.4824766,
+        "phone": "",
+        "zip_code": "44310",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "100 Corporate Drive, Franklin, MA, 02038",
+        "latitude": 42.0933237,
+        "longitude": -71.43476009999999,
+        "phone": "",
+        "zip_code": "02038",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5901 Hillsboro Blvd., Parkland, FL, 33067",
+        "latitude": 26.3187451,
+        "longitude": -80.2049409,
+        "phone": "",
+        "zip_code": "33067",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4150 NW Federal Highway, Jensen Beach, FL, 34957",
+        "latitude": 27.2553715,
+        "longitude": -80.2812613,
+        "phone": "",
+        "zip_code": "34957",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "12200 Atlantic Bvd. North, Jacksonville, FL, 32225-3006",
+        "latitude": 30.3180048,
+        "longitude": -81.4861916,
+        "phone": "",
+        "zip_code": "32225-3006",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4000 Oakwood Blvd., Hollywood, FL, 33020",
+        "latitude": 26.0462771,
+        "longitude": -80.1615227,
+        "phone": "",
+        "zip_code": "33020",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2370 Walnut Street, Cary, NC, 27518",
+        "latitude": 35.7531126,
+        "longitude": -78.74567239999999,
+        "phone": "",
+        "zip_code": "27518",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8005 NW 95th Street, Hialeah Gardens, FL, 33016",
+        "latitude": 25.8607453,
+        "longitude": -80.3276587,
+        "phone": "",
+        "zip_code": "33016",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6000 Brush Hollow Road, Westbury, NY, 11590",
+        "latitude": 40.77696650000001,
+        "longitude": -73.5550762,
+        "phone": "",
+        "zip_code": "11590",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "105 Shops at 5 Way, Plymouth, MA, 02360",
+        "latitude": 41.92684269999999,
+        "longitude": -70.6525365,
+        "phone": "",
+        "zip_code": "02360",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "11715 Carolina Place Parkway, Pineville, NC, 28134",
+        "latitude": 35.0744859,
+        "longitude": -80.8768664,
+        "phone": "",
+        "zip_code": "28134",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "38292 Colorado Avenue, Avon, OH, 44011",
+        "latitude": 41.4628827,
+        "longitude": -82.04956729999999,
+        "phone": "",
+        "zip_code": "44011",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "50 Eastview Mall Drive, Victor, NY, 14564",
+        "latitude": 43.0244554,
+        "longitude": -77.44258769999999,
+        "phone": "",
+        "zip_code": "14564",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "30 S State Rt 17, Paramus, NJ, 07652",
+        "latitude": 40.9261381,
+        "longitude": -74.0707541,
+        "phone": "",
+        "zip_code": "07652",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "141 Gallery Center Drive, Mooresville, NC, 28117",
+        "latitude": 35.5981915,
+        "longitude": -80.8609353,
+        "phone": "",
+        "zip_code": "28117",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "790 Centre of New England Blvd., Coventry, RI, 02816",
+        "latitude": 41.6623469,
+        "longitude": -71.5479143,
+        "phone": "",
+        "zip_code": "02816",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "415 East Merritt Avenue, Merritt Island, FL, 32953",
+        "latitude": 28.3599796,
+        "longitude": -80.6912914,
+        "phone": "",
+        "zip_code": "32953",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4365 Richmond Road, Warrensville Heights, OH, 44122",
+        "latitude": 41.4418508,
+        "longitude": -81.4967358,
+        "phone": "",
+        "zip_code": "44122",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8811 Brier Creek Parkway, Raleigh, NC, 27617",
+        "latitude": 35.9012834,
+        "longitude": -78.7876417,
+        "phone": "",
+        "zip_code": "27617",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6944 West 130th Street, Middleburg Heights, OH, 44130",
+        "latitude": 41.3766892,
+        "longitude": -81.7882712,
+        "phone": "",
+        "zip_code": "44130",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "560 Blanding Blvd., Orange Park, FL, 32073-5005",
+        "latitude": 30.1540795,
+        "longitude": -81.7501584,
+        "phone": "",
+        "zip_code": "32073-5005",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1155 Palm Bay Road, Palm Bay, FL, 32905",
+        "latitude": 28.0370812,
+        "longitude": -80.6409618,
+        "phone": "",
+        "zip_code": "32905",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "50 Daniel Street, Farmingdale, NY, 11735",
+        "latitude": 40.7473594,
+        "longitude": -73.4279658,
+        "phone": "",
+        "zip_code": "11735",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8085 Cooper Creek Blvd., University Park, FL, 34201",
+        "latitude": 27.3941679,
+        "longitude": -82.45177919999999,
+        "phone": "",
+        "zip_code": "34201",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1540 W. Boynton Beach Blvd., Boynton Beach, FL, 33436-4606",
+        "latitude": 26.5264045,
+        "longitude": -80.09384510000001,
+        "phone": "",
+        "zip_code": "33436-4606",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4697 Millenia Plaza Way, Orlando, FL, 32839-2404",
+        "latitude": 28.4960792,
+        "longitude": -81.427555,
+        "phone": "",
+        "zip_code": "32839-2404",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "820 Market Street, Westminster, MD, 21157",
+        "latitude": 39.5647565,
+        "longitude": -76.9653862,
+        "phone": "",
+        "zip_code": "21157",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "16520 Ball Park Road, Bowie, MD, 20716",
+        "latitude": 38.9450984,
+        "longitude": -76.71238319999999,
+        "phone": "",
+        "zip_code": "20716",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4270 W. State Road 46, Sanford, FL, 32771",
+        "latitude": 28.8114386,
+        "longitude": -81.3369687,
+        "phone": "",
+        "zip_code": "32771",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7905 Lyles Lane NW, Concord, NC, 28027",
+        "latitude": 35.3641937,
+        "longitude": -80.71329879999999,
+        "phone": "",
+        "zip_code": "28027",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "12190 Lake Underhill Road, Orlando, FL, 32825",
+        "latitude": 28.5448054,
+        "longitude": -81.20768079999999,
+        "phone": "",
+        "zip_code": "32825",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "100 Mill Road, Freeport, NY, 11520",
+        "latitude": 40.6514101,
+        "longitude": -73.57027099999999,
+        "phone": "",
+        "zip_code": "11520",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "339 Gateway Drive, Brooklyn, NY, 11239",
+        "latitude": 40.6510618,
+        "longitude": -73.8740662,
+        "phone": "",
+        "zip_code": "11239",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7260 Bell Creek Road, Mechanicsville, VA, 23111",
+        "latitude": 37.6019106,
+        "longitude": -77.3500297,
+        "phone": "",
+        "zip_code": "23111",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "900 Marketplace Blvd., Hamilton, NJ, 08691",
+        "latitude": 40.1972159,
+        "longitude": -74.6343705,
+        "phone": "",
+        "zip_code": "08691",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5183 Transit Road, Williamsville, NY, 14221-4131",
+        "latitude": 42.9884235,
+        "longitude": -78.6951357,
+        "phone": "",
+        "zip_code": "14221-4131",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "66-26 Metropolitan Avenue , Middle Village, NY, 11379",
+        "latitude": 40.71211539999999,
+        "longitude": -73.89070160000001,
+        "phone": "",
+        "zip_code": "11379",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1725 Market Place Blvd, Cumming, GA, 30041",
+        "latitude": 34.1904832,
+        "longitude": -84.13246480000001,
+        "phone": "",
+        "zip_code": "30041",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "105 Long Drive, Woodstock, GA, 30189",
+        "latitude": 34.0801045,
+        "longitude": -84.5423976,
+        "phone": "",
+        "zip_code": "30189",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "331 Newnan Crossing Bypass, Newnan, GA, 30265",
+        "latitude": 33.3897795,
+        "longitude": -84.75984989999999,
+        "phone": "",
+        "zip_code": "30265",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "232 Larkin Drive, Monroe, NY, 10950",
+        "latitude": 41.3193061,
+        "longitude": -74.1520768,
+        "phone": "",
+        "zip_code": "10950",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1800 Dogwood Drive SE, Conyers, GA, 30013",
+        "latitude": 33.6423405,
+        "longitude": -83.984016,
+        "phone": "",
+        "zip_code": "30013",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "255 Shenstone Blvd., Garner, NC, 27529",
+        "latitude": 35.6924014,
+        "longitude": -78.57930689999999,
+        "phone": "",
+        "zip_code": "27529",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3585 North Commerce Drive, East Point, GA, 30344",
+        "latitude": 33.6582462,
+        "longitude": -84.5061954,
+        "phone": "",
+        "zip_code": "30344",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "152 Route 73, Voorhees, NJ, 08043",
+        "latitude": 39.8352461,
+        "longitude": -74.92284939999999,
+        "phone": "",
+        "zip_code": "08043",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1100 West Osceola Parkway, Kissimmee, FL, 34741",
+        "latitude": 28.3402365,
+        "longitude": -81.4093534,
+        "phone": "",
+        "zip_code": "34741",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3849 S. Delsea Drive, Suite 2500, Vineland, NJ, 08360",
+        "latitude": 39.431366,
+        "longitude": -75.033369,
+        "phone": "",
+        "zip_code": "08360",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2085 Bay Street, Taunton, MA, 02780",
+        "latitude": 41.9598297,
+        "longitude": -71.1162016,
+        "phone": "",
+        "zip_code": "02780",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3635 Hempstead Turnpike, Levittown, NY, 11756",
+        "latitude": 40.7266142,
+        "longitude": -73.5008793,
+        "phone": "",
+        "zip_code": "11756",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2300A Rear W. Oregon Avenue, Philadelphia, PA, 19145",
+        "latitude": 39.918131,
+        "longitude": -75.1809235,
+        "phone": "",
+        "zip_code": "19145",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "125 Green Acres Road, Valley Stream, NY, 11581",
+        "latitude": 40.6606764,
+        "longitude": -73.72149019999999,
+        "phone": "",
+        "zip_code": "11581",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 Easton Road, Warrington, PA, 18976",
+        "latitude": 40.2176594,
+        "longitude": -75.1415597,
+        "phone": "",
+        "zip_code": "18976",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "400 Jay Scutti Boulevard, Rochester, NY, 14623",
+        "latitude": 43.0878488,
+        "longitude": -77.6317358,
+        "phone": "",
+        "zip_code": "14623",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1929 Pine Island Road N.E., Cape Coral, FL, 33909",
+        "latitude": 26.6734039,
+        "longitude": -81.9323763,
+        "phone": "",
+        "zip_code": "33909",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "650 SE 8th Street, Homestead, FL, 33034",
+        "latitude": 25.4613827,
+        "longitude": -80.46776349999999,
+        "phone": "",
+        "zip_code": "33034",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8046 Phillips Highway, Jacksonville, FL, 32256",
+        "latitude": 30.2235075,
+        "longitude": -81.5884652,
+        "phone": "",
+        "zip_code": "32256",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1007 Highway Route 9N, Old Bridge, NJ, 08857",
+        "latitude": 40.3986471,
+        "longitude": -74.3068297,
+        "phone": "",
+        "zip_code": "08857",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1046 North Colony Road, Bldg. A, Wallingford, CT, 06492",
+        "latitude": 41.4948616,
+        "longitude": -72.80725129999999,
+        "phone": "",
+        "zip_code": "06492",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "17250 NW 57th Ave., Hialeah, FL, 33015",
+        "latitude": 25.9295339,
+        "longitude": -80.29595250000001,
+        "phone": "",
+        "zip_code": "33015",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5 Ward Street, Revere, MA, 02151",
+        "latitude": 42.4232737,
+        "longitude": -71.0039946,
+        "phone": "",
+        "zip_code": "02151",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "610 Exterior Street, Bronx, NY\u00a0, 10451",
+        "latitude": 40.8233345,
+        "longitude": -73.9300493,
+        "phone": "",
+        "zip_code": "10451",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6301 Triangle Plantation Drive, Raleigh, NC, 27616",
+        "latitude": 35.8736959,
+        "longitude": -78.5840051,
+        "phone": "",
+        "zip_code": "27616",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "100 Pencader Plaza, Newark, DE, 19713",
+        "latitude": 39.6585433,
+        "longitude": -75.7369219,
+        "phone": "",
+        "zip_code": "19713",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "16200 SW 88th Street, Miami, FL, 33196-1002",
+        "latitude": 25.6826669,
+        "longitude": -80.4585525,
+        "phone": "",
+        "zip_code": "33196-1002",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5820 E. Virginia Beach Boulevard, Norfolk, VA, 23502",
+        "latitude": 36.8580219,
+        "longitude": -76.20756879999999,
+        "phone": "",
+        "zip_code": "23502",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5100 NW 9th Avenue, Fort Lauderdale, FL, 33309",
+        "latitude": 26.1899718,
+        "longitude": -80.1543714,
+        "phone": "",
+        "zip_code": "33309",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6290 Commerce Palms Drive, Tampa, FL, 33647",
+        "latitude": 28.1151572,
+        "longitude": -82.3747344,
+        "phone": "",
+        "zip_code": "33647",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1046 Tolland Turnpike, Manchester, CT, 06042",
+        "latitude": 41.7948141,
+        "longitude": -72.5489505,
+        "phone": "",
+        "zip_code": "06042",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "300 Bellwood Drive, Rochester, NY, 14606",
+        "latitude": 43.1805278,
+        "longitude": -77.6858226,
+        "phone": "",
+        "zip_code": "14606",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2000 Power Plant Parkway, Hampton, VA, 23666",
+        "latitude": 37.0366383,
+        "longitude": -76.39622419999999,
+        "phone": "",
+        "zip_code": "23666",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7651 W. Waters Ave, Tampa (Waters), FL, 33615",
+        "latitude": 28.0275516,
+        "longitude": -82.5654498,
+        "phone": "",
+        "zip_code": "33615",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "25 Shelley Road, Haverhill, MA, 01835",
+        "latitude": 42.7567331,
+        "longitude": -71.11699999999999,
+        "phone": "",
+        "zip_code": "01835",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2100 88th Street, North Bergen, NJ, 07047",
+        "latitude": 40.8132753,
+        "longitude": -74.0145886,
+        "phone": "",
+        "zip_code": "07047",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "9372 Ben C Pratt/6 Mile Cypress Pkwy, Fort Myers, FL, 33966",
+        "latitude": 26.6065567,
+        "longitude": -81.8137256,
+        "phone": "",
+        "zip_code": "33966",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "321 Martin Truex Jr. Blvd, Manahawkin, NJ, 08050",
+        "latitude": 39.7006685,
+        "longitude": -74.2756687,
+        "phone": "",
+        "zip_code": "08050",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "955 Ferry Blvd. , Stratford, CT, 06614",
+        "latitude": 41.2027698,
+        "longitude": -73.1127439,
+        "phone": "",
+        "zip_code": "06614",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1752 Shore Parkway, Brooklyn, NY, 11214",
+        "latitude": 40.5927574,
+        "longitude": -73.99678999999999,
+        "phone": "",
+        "zip_code": "11214",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "26676 Centerview Drive, Millsboro, DE, 19966",
+        "latitude": 38.5721589,
+        "longitude": -75.2880079,
+        "phone": "",
+        "zip_code": "19966",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1320 Starling Drive, Richmond, VA, 23229",
+        "latitude": 37.6019859,
+        "longitude": -77.57083480000001,
+        "phone": "",
+        "zip_code": "23229",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2577 South Highway 27, Clermont, FL, 34711",
+        "latitude": 28.5331673,
+        "longitude": -81.7332321,
+        "phone": "",
+        "zip_code": "34711",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 C Mill Road, Oaks, PA, 19456",
+        "latitude": 40.1274141,
+        "longitude": -75.4562361,
+        "phone": "",
+        "zip_code": "19456",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "820-825 Pelham Parkway, Pelham Manor, NY, 10803",
+        "latitude": 40.8939782,
+        "longitude": -73.81788759999999,
+        "phone": "",
+        "zip_code": "10803",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "75 Spring Street, Southington, CT\u00a0, 06489",
+        "latitude": 41.6352597,
+        "longitude": -72.877763,
+        "phone": "",
+        "zip_code": "06489",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "900 Remsen Avenue, Brooklyn (Canarsie), NY\u00a0, 11236",
+        "latitude": 40.6453122,
+        "longitude": -73.913888,
+        "phone": "",
+        "zip_code": "11236",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "66 Seyon Street, Waltham, MA, 02453",
+        "latitude": 42.3688021,
+        "longitude": -71.2166185,
+        "phone": "",
+        "zip_code": "02453",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "131-07 40th Road, Suite A100, Flushing, NY, 11354",
+        "latitude": 40.7566419,
+        "longitude": -73.8369441,
+        "phone": "",
+        "zip_code": "11354",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1781 Ritchie Station Court, Capitol Heights, MD, 20743",
+        "latitude": 38.8652025,
+        "longitude": -76.8513562,
+        "phone": "",
+        "zip_code": "20743",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 Stonehill Drive, Johnston, RI\u00a0, 02919",
+        "latitude": 41.8179075,
+        "longitude": -71.5076784,
+        "phone": "",
+        "zip_code": "02919",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1 Highland Commons West, Hudson, MA\u00a0, 01749",
+        "latitude": 42.3961692,
+        "longitude": -71.6009232,
+        "phone": "",
+        "zip_code": "01749",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2451 Route 1 South, North Brunswick, NJ, 08902",
+        "latitude": 40.440577,
+        "longitude": -74.50698299999999,
+        "phone": "",
+        "zip_code": "08902",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6102 Shops Way, Northborough, MA, 01532",
+        "latitude": 42.286855,
+        "longitude": -71.66819269999999,
+        "phone": "",
+        "zip_code": "01532",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "711 Stewart Avenue, Garden City, NY, 11530",
+        "latitude": 40.7326598,
+        "longitude": -73.6090851,
+        "phone": "",
+        "zip_code": "11530",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "3056 Sheridan Drive, Amherst, NY, 14226",
+        "latitude": 42.9810831,
+        "longitude": -78.82040169999999,
+        "phone": "",
+        "zip_code": "14226",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "106 Federal Road, Brookfield, CT, 06804",
+        "latitude": 41.4368965,
+        "longitude": -73.4100842,
+        "phone": "",
+        "zip_code": "06804",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5200 Red Tip Road, Fayetteville, NC, 28314",
+        "latitude": 35.06332630000001,
+        "longitude": -78.9653453,
+        "phone": "",
+        "zip_code": "28314",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "175 Highland Aveune, Seekonk, MA, 02771",
+        "latitude": 41.7997526,
+        "longitude": -71.33639819999999,
+        "phone": "",
+        "zip_code": "02771",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "85 Bricktown Way, Staten Island, NY, 10309",
+        "latitude": 40.5308956,
+        "longitude": -74.2281892,
+        "phone": "",
+        "zip_code": "10309",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1419 Hershberger Road, NW, Roanoke, VA, 24012",
+        "latitude": 37.3168053,
+        "longitude": -79.9601005,
+        "phone": "",
+        "zip_code": "24012",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 John E. Devine Drive, Manchester, NH, 03103",
+        "latitude": 42.9600865,
+        "longitude": -71.4424536,
+        "phone": "",
+        "zip_code": "03103",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "26996 Highway 19 N, Clearwater, FL, 33761",
+        "latitude": 28.0184087,
+        "longitude": -82.7402772,
+        "phone": "",
+        "zip_code": "33761",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "300 Willowbrook Mall, Wayne, NJ, 07470",
+        "latitude": 40.8898035,
+        "longitude": -74.2622028,
+        "phone": "",
+        "zip_code": "07470",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "19150 Quesada Avenue, Port Charlotte, FL, 33948",
+        "latitude": 27.011894,
+        "longitude": -82.13626099999999,
+        "phone": "",
+        "zip_code": "33948",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "13210 Tegler Drive, Noblesville, IN, 46060",
+        "latitude": 39.9962195,
+        "longitude": -85.9288737,
+        "phone": "",
+        "zip_code": "46060",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "43690 Ford Road, Canton, MI, 48187",
+        "latitude": 42.3235634,
+        "longitude": -83.473447,
+        "phone": "",
+        "zip_code": "48187",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6360 Gandview Parkway, Davenport, FL, 33837",
+        "latitude": 28.237356,
+        "longitude": -81.640376,
+        "phone": "",
+        "zip_code": "33837",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "777 Executive Center Drive, West Palm Beach, FL, 33401",
+        "latitude": 26.7182786,
+        "longitude": -80.0867889,
+        "phone": "",
+        "zip_code": "33401",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "14400 Lowes Way, Carmel, IN, 46033",
+        "latitude": 39.9970554,
+        "longitude": -86.12364579999999,
+        "phone": "",
+        "zip_code": "46033",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "12884 City Center Boulevard , Jacksonville (River City), FL, 32218",
+        "latitude": 30.4728642,
+        "longitude": -81.64346019999999,
+        "phone": "",
+        "zip_code": "32218",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "315 Reynolds Road, Johnson City, NY, 13790",
+        "latitude": 42.1278747,
+        "longitude": -75.9733427,
+        "phone": "",
+        "zip_code": "13790",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5857 State Route 100 E., Palm Coast, FL, 32164",
+        "latitude": 29.4756055,
+        "longitude": -81.2233229,
+        "phone": "",
+        "zip_code": "32164",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "800 Rivergate Parkway, Goodlettsville, TN, 37072",
+        "latitude": 36.305461,
+        "longitude": -86.6975358,
+        "phone": "",
+        "zip_code": "37072",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "245 Hwy 81 West , McDonough, GA, 30253",
+        "latitude": 33.44661800000001,
+        "longitude": -84.1391153,
+        "phone": "",
+        "zip_code": "30253",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "165 Graphics Drive, Madison, AL, 35758",
+        "latitude": 34.6747141,
+        "longitude": -86.74549619999999,
+        "phone": "",
+        "zip_code": "35758",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "136 Las Palmas Drive, Myrtle Beach, SC, 29579",
+        "latitude": 33.7481418,
+        "longitude": -78.96145539999999,
+        "phone": "",
+        "zip_code": "29579",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "13085 Cortez Blvd., Brooksville, FL, 34613",
+        "latitude": 28.5360843,
+        "longitude": -82.5106347,
+        "phone": "",
+        "zip_code": "34613",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "101 Foothills Mall Dr., Maryville, TN, 37801",
+        "latitude": 35.7477174,
+        "longitude": -83.99666239999999,
+        "phone": "",
+        "zip_code": "37801",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4807 Outer Loop, Louisville, KY, 40219",
+        "latitude": 38.139281,
+        "longitude": -85.6702961,
+        "phone": "",
+        "zip_code": "40219",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "205 Southern Road, Southern Pines, NC, 28387",
+        "latitude": 35.1694792,
+        "longitude": -79.42100839999999,
+        "phone": "",
+        "zip_code": "28387",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "831 State Route 10, Whippany, NJ, 07981",
+        "latitude": 40.8253931,
+        "longitude": -74.4258157,
+        "phone": "",
+        "zip_code": "07981",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6100 St. Lawrence Center, Massena, NY, 13662",
+        "latitude": 44.9489844,
+        "longitude": -74.83955689999999,
+        "phone": "",
+        "zip_code": "13662",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1899 Cinema Drive, Olean, NY, 14760",
+        "latitude": 42.0811472,
+        "longitude": -78.4641826,
+        "phone": "",
+        "zip_code": "14760",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "756 State Highway 28, Oneonta, NY, 13820",
+        "latitude": 42.4460876,
+        "longitude": -75.0524645,
+        "phone": "",
+        "zip_code": "13820",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "173 E. Main Road, Middletown, RI, 02842",
+        "latitude": 41.5168567,
+        "longitude": -71.29461359999999,
+        "phone": "",
+        "zip_code": "02842",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "42 Colrain Road, Greenfield, MA, 01301",
+        "latitude": 42.5888385,
+        "longitude": -72.6227397,
+        "phone": "",
+        "zip_code": "01301",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "186 Highway 31, Flemington, NJ, 08822",
+        "latitude": 40.5312322,
+        "longitude": -74.8553544,
+        "phone": "",
+        "zip_code": "08822",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "119 Laconia Road, Tilton, NH, 03276",
+        "latitude": 43.4571422,
+        "longitude": -71.5600167,
+        "phone": "",
+        "zip_code": "03276",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "110 Mt. Auburn Avenue, Auburn, ME, 04210",
+        "latitude": 44.1198699,
+        "longitude": -70.23802169999999,
+        "phone": "",
+        "zip_code": "04210",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8330 Lewiston Road, Batavia, NY, 14020",
+        "latitude": 43.0095312,
+        "longitude": -78.2121882,
+        "phone": "",
+        "zip_code": "14020",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "607 Old Country Road, Riverhead, NY, 11901",
+        "latitude": 40.9337449,
+        "longitude": -72.66203089999999,
+        "phone": "",
+        "zip_code": "11901",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "11 Plaza Drive, Auburn, NY, 13021",
+        "latitude": 42.9567133,
+        "longitude": -76.5411144,
+        "phone": "",
+        "zip_code": "13021",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1280 East Main Street, Torrington, CT, 06790",
+        "latitude": 41.8148116,
+        "longitude": -73.0918066,
+        "phone": "",
+        "zip_code": "06790",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1589 West Main Street, Willimantic, CT, 06226",
+        "latitude": 41.7227834,
+        "longitude": -72.2365641,
+        "phone": "",
+        "zip_code": "06226",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "44950 Worth Lane, California, MD, 20619",
+        "latitude": 38.2818635,
+        "longitude": -76.5372625,
+        "phone": "",
+        "zip_code": "20619",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "20 Division Street, Derby, CT, 06418",
+        "latitude": 41.3310087,
+        "longitude": -73.0810985,
+        "phone": "",
+        "zip_code": "06418",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "159 Pocono Commons Drive, Stroudsburg, PA, 18360",
+        "latitude": 40.9978006,
+        "longitude": -75.2435607,
+        "phone": "",
+        "zip_code": "18360",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "262 Plainfield Road, W. Lebanon, NH, 03784",
+        "latitude": 43.6277386,
+        "longitude": -72.3254844,
+        "phone": "",
+        "zip_code": "03784",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "420 Attucks Lane, Hyannis, MA, 02601",
+        "latitude": 41.67765319999999,
+        "longitude": -70.3061156,
+        "phone": "",
+        "zip_code": "02601",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "28410 Marlboro Avenue, Easton, MD, 21601",
+        "latitude": 38.7821693,
+        "longitude": -76.09036689999999,
+        "phone": "",
+        "zip_code": "21601",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "616 North West End Blvd, Quakertown, PA\u00a0, 18951",
+        "latitude": 40.4599008,
+        "longitude": -75.3756211,
+        "phone": "",
+        "zip_code": "18951",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6607 Wilson Boulevard, Falls Church, VA\u00a0, 22044",
+        "latitude": 38.8750494,
+        "longitude": -77.150526,
+        "phone": "",
+        "zip_code": "22044",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "40 Graham Road West, Ithaca, NY, 14850",
+        "latitude": 42.4866819,
+        "longitude": -76.49209359999999,
+        "phone": "",
+        "zip_code": "14850",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "200 Crown Colony Drive , Quincy, MA, 02169",
+        "latitude": 42.23227259999999,
+        "longitude": -71.01238099999999,
+        "phone": "",
+        "zip_code": "02169",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2131 Kirkwood Highway, Wilmington, DE, 19805",
+        "latitude": 39.739429,
+        "longitude": -75.6104391,
+        "phone": "",
+        "zip_code": "19805",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "495 Hubbard Avenue, Pittsfield, MA, 01201",
+        "latitude": 42.46532029999999,
+        "longitude": -73.19506729999999,
+        "phone": "",
+        "zip_code": "01201",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1433 Boone Station Drive, Burlington, NC, 27215",
+        "latitude": 36.0702433,
+        "longitude": -79.5138839,
+        "phone": "",
+        "zip_code": "27215",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1900 The Arches Circle, Deer Park, NY, 11729",
+        "latitude": 40.7630731,
+        "longitude": -73.3086691,
+        "phone": "",
+        "zip_code": "11729",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5100 Wellington Road, Gainesville, VA, 20155",
+        "latitude": 38.7903667,
+        "longitude": -77.60438409999999,
+        "phone": "",
+        "zip_code": "20155",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1800 Dunlawton Ave , Port Orange, FL, 32127",
+        "latitude": 29.1073568,
+        "longitude": -81.0242662,
+        "phone": "",
+        "zip_code": "32127",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "184 West 237th Street, Bronx, NY, 10463",
+        "latitude": 40.8836663,
+        "longitude": -73.89969030000002,
+        "phone": "",
+        "zip_code": "10463",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "34-60 48th Street, Long Island City, NY, 11101",
+        "latitude": 40.7520506,
+        "longitude": -73.91706959999999,
+        "phone": "",
+        "zip_code": "11101",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "620 Riverside Drive, Coral Springs, FL, 33071",
+        "latitude": 26.2401155,
+        "longitude": -80.2447325,
+        "phone": "",
+        "zip_code": "33071",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "790 Sunrise Highway South Service Road, Bellport, NY, 11713",
+        "latitude": 40.7865633,
+        "longitude": -72.9500482,
+        "phone": "",
+        "zip_code": "11713",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7050 Coral Way, Miami, FL, 33155",
+        "latitude": 25.7455094,
+        "longitude": -80.30982019999999,
+        "phone": "",
+        "zip_code": "33155",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "540 Gateway Ave, Chambersburg, PA, 17201",
+        "latitude": 39.9391815,
+        "longitude": -77.6349198,
+        "phone": "",
+        "zip_code": "17201",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "640 Cowpath Road, Lansdale, PA, 19446",
+        "latitude": 40.2471854,
+        "longitude": -75.24535379999999,
+        "phone": "",
+        "zip_code": "19446",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "180 Passaic Avenue, Kearny, NJ, 07032",
+        "latitude": 40.7587288,
+        "longitude": -74.1592708,
+        "phone": "",
+        "zip_code": "07032",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5371 Route 9 North, Howell, NJ, 07731",
+        "latitude": 40.1265763,
+        "longitude": -74.21903309999999,
+        "phone": "",
+        "zip_code": "07731",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "401 Auto Park Place, Newburgh, NY, 12550",
+        "latitude": 41.5029133,
+        "longitude": -74.0630906,
+        "phone": "",
+        "zip_code": "12550",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "110 Longview Drive, Bangor, ME, 04401",
+        "latitude": 44.84353549999999,
+        "longitude": -68.74109229999999,
+        "phone": "",
+        "zip_code": "04401",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4701 O'Donnell Street, Baltimore, MD, 21224",
+        "latitude": 39.2796351,
+        "longitude": -76.5558674,
+        "phone": "",
+        "zip_code": "21224",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "1035 Jockey Court, Summerville, SC, 29483",
+        "latitude": 33.035201,
+        "longitude": -80.1480918,
+        "phone": "",
+        "zip_code": "29483",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "30 Perkins Ave, Seabrook, NH, 03874",
+        "latitude": 42.8935523,
+        "longitude": -70.8764568,
+        "phone": "",
+        "zip_code": "03874",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "7005 North Davis Highway, Pensacola, FL, 325604",
+        "latitude": 30.4979512,
+        "longitude": -87.2261005,
+        "phone": "",
+        "zip_code": "325604",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "29101 John R. Road (Madison Center), Madison Heights, MI, 48071",
+        "latitude": 42.5062819,
+        "longitude": -83.10738909999999,
+        "phone": "",
+        "zip_code": "48071",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "15523 Racho Road, Taylor, MI, 48180",
+        "latitude": 42.1944759,
+        "longitude": -83.24655159999999,
+        "phone": "",
+        "zip_code": "48180",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "45101 Town Center Blvd., Chesterfield, MI, 48047",
+        "latitude": 42.6314511,
+        "longitude": -82.84391149999999,
+        "phone": "",
+        "zip_code": "48047",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "2 Veterans Memorial Highway, Commack, NY, 11725",
+        "latitude": 40.840917,
+        "longitude": -73.2901728,
+        "phone": "",
+        "zip_code": "11725",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "6270 Northway Drive, Ross Township, PA, 15237",
+        "latitude": 40.5610745,
+        "longitude": -80.0394123,
+        "phone": "",
+        "zip_code": "15237",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "4000 Victoria Street, Bridgeville, PA, 15017",
+        "latitude": 40.3608951,
+        "longitude": -80.1246251,
+        "phone": "",
+        "zip_code": "15017",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "825 N. Marketplace Blvd., Lansing, MI, 48917",
+        "latitude": 42.7433102,
+        "longitude": -84.67621559999999,
+        "phone": "",
+        "zip_code": "48917",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "13595 NE 86th Path, Lady Lakes, FL, 32159",
+        "latitude": 28.9549365,
+        "longitude": -81.9578102,
+        "phone": "",
+        "zip_code": "32159",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "12201 Bridgewood Crossing Drive, Midlothian, VA, 23112",
+        "latitude": 37.4280507,
+        "longitude": -77.6196645,
+        "phone": "",
+        "zip_code": "23112",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5900 N. Hamilton Rd. , New Albany, OH, 43054",
+        "latitude": 40.07725569999999,
+        "longitude": -82.85017690000001,
+        "phone": "",
+        "zip_code": "43054",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "375 East Avenue, Warwick, RI, 02886",
+        "latitude": 41.7173107,
+        "longitude": -71.4772436,
+        "phone": "",
+        "zip_code": "02886",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "543 Industrial Blvd. , La Vergne, TN, 37086",
+        "latitude": 35.9808478,
+        "longitude": -86.57466610000002,
+        "phone": "",
+        "zip_code": "37086",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "399 Tarrytown Road, White Plains, NY, 10607",
+        "latitude": 41.041422,
+        "longitude": -73.798712,
+        "phone": "",
+        "zip_code": "10607",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "8425 Orange Centre Drive, Lewis Center, OH, 43035",
+        "latitude": 40.1673893,
+        "longitude": -83.0169458,
+        "phone": "",
+        "zip_code": "43035",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "181 Adams Lane, Mt. Juliet, TN, 37122",
+        "latitude": 36.1679777,
+        "longitude": -86.5214019,
+        "phone": "",
+        "zip_code": "37122",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "115 Beachwalk Blvd., St. Johns, FL, 32259",
+        "latitude": 30.0850501,
+        "longitude": -81.47486839999999,
+        "phone": "",
+        "zip_code": "32259",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    },
+    {
+        "store_id": "",
+        "retailer": "BJ's Wholesale Club",
+        "name": "BJ's Wholesale Club",
+        "address": "5415 Carlisle Pike, Mechanicsburg, PA, 17050",
+        "latitude": 40.2403457,
+        "longitude": -76.983209,
+        "phone": "",
+        "zip_code": "17050",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BJs_Wholesale_Club_Logo.svg/1200px-BJs_Wholesale_Club_Logo.svg.png",
+        "available_upcs": [
+            "810589031957"
+        ],
+        "available_upc_names": []
+    }
+]
