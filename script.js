@@ -60,7 +60,7 @@ async function initMap(center, zoomLevel) {
 
 async function fetchStores() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June%2025%Updated%Full%List.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/June%2025%Updated%Full%List.json"); 
         allStores = await response.json();
         renderVisibleStores();
     } catch (error) {
