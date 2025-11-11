@@ -26,7 +26,7 @@ navigator.geolocation.getCurrentPosition(
 
 async function fetchUPCData() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC%20June%202025%20v2.json");
+        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/BJsOnly.json");
         const upcArray = await response.json();
         upcData = upcArray.reduce((acc, item) => {
             acc[item.UPC] = { name: item.Name, image_url: item.Image };
