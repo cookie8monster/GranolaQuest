@@ -6,6 +6,24 @@ let map;
 let userLocation = null;
 const minZoomToShowMarkers = 8;
 
+// --- IMPORTANT: Use stable raw URLs + cache busters to avoid GitHub CDN caching issues
+const UPC_URL_BASE = "https://raw.githubusercontent.com/cookie8monster/GranolaQuest/main/UPC%20June%202025%20v2.json";
+const STORES_URL_BASE = "https://raw.githubusercontent.com/cookie8monster/GranolaQuest/main/CostcoJan26.json";
+
+// Cache buster: forces a fresh fetch each page load (great for development)
+const CACHE_BUSTER = `v=${Date.now()}`;
+
+// Optional: if you want it less aggressive, replace Date.now() with a manual version string:
+// const CACHE_BUSTER = "v=2026-01-15-1";
+
+function normalizeUPC(upc) {
+    // Normalizes UPC values so numeric vs string mismatches don't break lookups.
+    // Keeps digits as-is, and pads to 12 digits when it's purely numeric.
+    const s = String(upc).trim();
+    if (/^\d+$/.test(s)) return s.padStart(12, "0");
+    return s;
+}
+
 navigator.geolocation.getCurrentPosition(
     position => {
         userLocation = {
@@ -26,16 +44,32 @@ navigator.geolocation.getCurrentPosition(
 
 async function fetchUPCData() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/UPC%20June%202025%20v2.json");
+        const response = await fetch(`${UPC_URL_BASE}?${CACHE_BUSTER}`, { cache: "no-store" });
+
+        if (!response.ok) {
+            throw new Error(`UPC fetch failed: ${response.status} ${response.statusText}`);
+        }
+
         const upcArray = await response.json();
+
+        // Build lookup table: normalized UPC -> product info
         upcData = upcArray.reduce((acc, item) => {
-            acc[item.UPC] = { name: item.Name, image_url: item.Image };
+            const key = normalizeUPC(item.UPC);
+            acc[key] = {
+                name: item.Name,
+                image_url: item.Image,
+                url: item.URL // optional; may be undefined
+            };
             return acc;
         }, {});
+
+        console.log("✅ UPC data loaded:", upcArray.length, "items");
     } catch (error) {
         console.error("Error loading UPC data:", error);
+        upcData = {}; // fail safe
     }
 }
+
 async function initMap(center, zoomLevel) {
     map = new mapboxgl.Map({
         container: 'map',
@@ -59,16 +93,23 @@ async function initMap(center, zoomLevel) {
 
 async function fetchStores() {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/cookie8monster/GranolaQuest/refs/heads/main/CostcoJan26.json");
+        const response = await fetch(`${STORES_URL_BASE}?${CACHE_BUSTER}`, { cache: "no-store" });
+
+        if (!response.ok) {
+            throw new Error(`Stores fetch failed: ${response.status} ${response.statusText}`);
+        }
+
         allStores = await response.json();
+        console.log("✅ Store data loaded:", allStores.length, "stores");
         renderVisibleStores();
     } catch (error) {
         console.error("Error loading stores:", error);
+        allStores = []; // fail safe
     }
 }
 
 function renderVisibleStores() {
-    if (!allStores.length || !userLocation) return;
+    if (!allStores.length || !userLocation || !map) return;
 
     const zoom = map.getZoom();
     const bounds = map.getBounds();
@@ -142,14 +183,31 @@ function renderVisibleStores() {
                         &#9656; Available Items
                     </span>
                     <div id="items-list-${index}" class="items-list" style="display: none;">
-                        ${store.available_upcs.map(upc => {
+                        ${store.available_upcs.map(rawUpc => {
+                            const upc = normalizeUPC(rawUpc);
                             const product = upcData[upc];
-                            return product
-                                ? `<div class="product-item">
-                                        <img src="${product.image_url}" alt="${product.name}" class="product-image">
-                                        <div class="product-name">${product.name}</div>
-                                   </div>`
-                                : `<div class="product-item">Unknown UPC: ${upc}</div>`;
+
+                            if (!product) {
+                                return `<div class="product-item">Unknown UPC: ${rawUpc}</div>`;
+                            }
+
+                            // If URL exists, make the product card clickable
+                            const inner = `
+                                <div class="product-item">
+                                    <img src="${product.image_url}" alt="${product.name}" class="product-image">
+                                    <div class="product-name">${product.name}</div>
+                                </div>
+                            `;
+
+                            return product.url
+                                ? `<a href="${product.url}"
+                                      target="_blank"
+                                      rel="noopener"
+                                      class="product-item-link"
+                                      onclick="event.stopPropagation()">
+                                      ${inner}
+                                   </a>`
+                                : inner;
                         }).join('')}
                     </div>
                 </div>
