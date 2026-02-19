@@ -293,5 +293,25 @@
     "UPC": 810589032312,
     "Name": "Granola Ancient Grain - Original Salty-Sweet 34oz",
     "Image": "https://www.instacart.com/assets/domains/product-image/file/large_9ea3a186-90a0-425d-a975-44372279b1a7.jpeg"
+  },
+  {
+    "UPC": 123123,
+    "Name": "Purely Glow Limited Edition -  Salted Vanilla Pistachio",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/LESaltedVanillaPistachioV1_Lifestyle4.webp?v=1768267949"
+  },
+  {
+    "UPC": 123124,
+    "Name": "Purely Glow Limited Edition -  Hot Latte",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/CCM_Hot_Latte.jpg?v=1771530221"
+  },
+  {
+    "UPC": 123125,
+    "Name": "Purely Glow Limited Edition -  Iced Latte",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/CCM_Iced_Latte.jpg?v=1771530221"
+  },
+  {
+    "UPC": 123126,
+    "Name": "Purely Glow Limited Edition -  Yogurt Parfait",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/CCM_Matcha_Chia_Yogurt_Parfait.jpg?v=1771530221"
   }
 ]
