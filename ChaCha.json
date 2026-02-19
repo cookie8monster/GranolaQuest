@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "store_id": NaN,
+    "retailer": "Cha Cha Venice",
+    "name": "Cha Cha Venice",
+    "address": "1401 Abbot Kinney Blvd, Venice, CA 90291",
+    "latitude": "33.99071807628758,",
+    "longitude": -118.465868000514,
+    "phone": NaN,
+    "zip_code": 90291,
+    "logo_url": "https://ih1.redbubble.net/image.2115717421.2741/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "available_upcs": "123123; 123124; 123125; 123126",
+    "available_upc_names": NaN
+  },
+  {
+    "store_id": NaN,
+    "retailer": "Cha Cha West Hollywood",
+    "name": "Cha Cha West Hollywood",
+    "address": "510 N Robertson Blvd, Los Angeles, CA 90048",
+    "latitude": "34.08039963753927,",
+    "longitude": -118.385017203401,
+    "phone": NaN,
+    "zip_code": 90048,
+    "logo_url": "https://ih1.redbubble.net/image.2115717421.2741/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "available_upcs": "123123; 123124; 123125; 123126",
+    "available_upc_names": NaN
+  },
+  {
+    "store_id": NaN,
+    "retailer": "Cha Cha Century City",
+    "name": "Cha Cha Century City",
+    "address": "10250 Santa Monica Blvd Suite #1625, Los Angeles CA 90067",
+    "latitude": "34.05899918132755,",
+    "longitude": -118.418848891724,
+    "phone": NaN,
+    "zip_code": 90067,
+    "logo_url": "https://ih1.redbubble.net/image.2115717421.2741/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "available_upcs": "123123; 123124; 123125; 123126",
+    "available_upc_names": NaN
+  },
+  {
+    "store_id": NaN,
+    "retailer": "Cha Cha Beverly Hills",
+    "name": "Cha Cha Beverly Hills",
+    "address": "475 North Beverly Drive, Beverly Hills CA 90210",
+    "latitude": "34.07136070266908,",
+    "longitude": -118.403571961668,
+    "phone": NaN,
+    "zip_code": 90210,
+    "logo_url": "https://ih1.redbubble.net/image.2115717421.2741/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "available_upcs": "123123; 123124; 123125; 123126",
+    "available_upc_names": NaN
+  }
+]
