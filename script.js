@@ -143,7 +143,7 @@ function renderVisibleStores() {
                         &#9656; Available Items
                     </span>
                     <div id="items-list-${index}" class="items-list" style="display: none;">
-                        ${store.available_upcs.map(upc => {
+                        ${store.available_upcs.flatMap(u => u.split(",").map(s => s.trim())).filter(Boolean).map(upc => {
                             const product = upcData[upc];
                             return product
                                 ? `<div class="product-item">
