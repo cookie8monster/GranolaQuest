@@ -223,5 +223,20 @@
         "UPC": 855000000000,
         "Name": "Name coming soon",
         "Image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Image_coming_soon.png"
+    },
+    {
+        "UPC": 810589032596,
+        "Name": "Dark Chocolate Blueberry Protein Granola",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Image_coming_soon.png"
+    },
+    {
+        "UPC": 810589032602,
+        "Name": "Almond Butter & Berries Protein Granola",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Image_coming_soon.png"
+    },
+    {
+        "UPC": 810589032619,
+        "Name": "Cinnamon Toast Protein Granola",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Image_coming_soon.png"
     }
 ]
