@@ -1,5 +1,20 @@
 [
   {
+    "UPC": 810589032596,
+    "Name": "Dark Chocolate Blueberry Protein Granola",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/Protein_G_DarkChocolateBlueberry_V1_Hero.webp?v=1774023806"
+  },
+  {
+    "UPC": 810589032602,
+    "Name": "Almond Butter & Berries Protein Granola",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/ProteinG_AlmondButterBerries_V1_Hero.webp?v=1774023586"
+  },
+  {
+    "UPC": 810589032619,
+    "Name": "Cinnamon Toast Protein Granola",
+    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/Protein_G_CinnamonToast_V1_Hero.webp?v=1774023969"
+  },
+  {
     "UPC": 81058903034,
     "Name": "Superfood Oatmeal + Collagen Cup - Vanilla Pecan 2oz",
     "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/vanilla-pecan-oat-cup_c62ffb75-ea6a-479e-a24c-be40c07716cc.webp?v=1715582621"
@@ -314,24 +329,9 @@
     "Name": "Purely Glow Limited Edition -  Yogurt Parfait",
     "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/CCM_Matcha_Chia_Yogurt_Parfait.jpg?v=1771530221"
   },
-   {
+  {
     "UPC": 810589032541,
     "Name": "Cookie Granola Peanut Butter 31oz",
     "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/Costco_PeanutButter_PurelyElizabeth_31oz__C1N1_1.jpg?v=1774285374"
-  },
-  {
-    "UPC": 810589032596,
-    "Name": "Dark Chocolate Blueberry Protein Granola",
-    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/Protein_G_DarkChocolateBlueberry_V1_Hero.webp?v=1774023806"
-  },
-  {
-    "UPC": 810589032602,
-    "Name": "Almond Butter & Berries Protein Granola",
-    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/ProteinG_AlmondButterBerries_V1_Hero.webp?v=1774023586"
-  },
-  {
-    "UPC": 810589032619,
-    "Name": "Cinnamon Toast Protein Granola",
-    "Image": "https://cdn.shopify.com/s/files/1/0264/3725/5250/files/Protein_G_CinnamonToast_V1_Hero.webp?v=1774023969"
   }
 ]
