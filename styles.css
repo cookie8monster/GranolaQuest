@@ -281,8 +281,8 @@ body {
 /* ── Product Filter Panel ────────────────────────────────────────────────── */
 #filter-panel {
   position: absolute;
-  top: 10px;
-  left: 10px;
+  top: 62px;
+  right: 10px;
   z-index: 1000;
   background: white;
   border-radius: 8px;
@@ -420,7 +420,7 @@ body {
 
 @media (max-width: 768px) {
   #filter-panel {
-    top: 60px;
+    top: 62px;
     left: 10px;
     right: 10px;
     width: auto;
