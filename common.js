@@ -155,8 +155,12 @@ function initStoreLocator(config) {
         storeListEl.classList.remove("hidden");
         mapEl.classList.remove("full-height");
 
+        // Spread markers that share the same (or nearly identical) coordinates
+        // so logos don't pile on top of each other
+        const spreadStores = spreadCoLocated(visibleStores);
+
         // Add map markers
-        visibleStores.forEach(store => {
+        spreadStores.forEach(store => {
             const el = document.createElement("div");
             Object.assign(el.style, {
                 backgroundImage:    `url(${store.logo_url})`,
@@ -271,6 +275,37 @@ function initStoreLocator(config) {
     });
 
     // ── Filter logic ───────────────────────────────────────────────────────────
+
+    function spreadCoLocated(stores) {
+        const THRESHOLD = 0.001;   // ~100 m — treat as same spot
+        const RADIUS    = 0.0005;  // ~50 m spread radius
+        const used = new Array(stores.length).fill(false);
+        const out  = stores.map(s => ({ ...s }));
+
+        for (let i = 0; i < stores.length; i++) {
+            if (used[i]) continue;
+            const group = [i];
+            for (let j = i + 1; j < stores.length; j++) {
+                if (used[j]) continue;
+                if (Math.abs(stores[i].latitude  - stores[j].latitude)  < THRESHOLD &&
+                    Math.abs(stores[i].longitude - stores[j].longitude) < THRESHOLD) {
+                    group.push(j);
+                    used[j] = true;
+                }
+            }
+            used[i] = true;
+            if (group.length > 1) {
+                const clat = group.reduce((s, k) => s + stores[k].latitude,  0) / group.length;
+                const clng = group.reduce((s, k) => s + stores[k].longitude, 0) / group.length;
+                group.forEach((idx, pos) => {
+                    const angle = (2 * Math.PI * pos / group.length) - Math.PI / 2;
+                    out[idx].latitude  = clat + RADIUS * Math.cos(angle);
+                    out[idx].longitude = clng + RADIUS * Math.sin(angle);
+                });
+            }
+        }
+        return out;
+    }
 
     function storeMatchesFilter(store) {
         if (activeCategories.size === 0) return true;
