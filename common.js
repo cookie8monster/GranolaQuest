@@ -16,6 +16,50 @@ function initStoreLocator(config) {
     let userLocation = null;
     const minZoomToShowMarkers = 8;
 
+    // ── Product filter categories ──────────────────────────────────────────────
+    const CDN = 'https://cdn.shopify.com/s/files/1/0264/3725/5250/files/';
+    const PRODUCT_CATEGORIES = [
+        { id: 'protein-granola',  name: 'Protein Granola',  color: '#c0a0a8',
+          image: CDN + 'Protein_G_DarkChocolateBlueberry_V1_Hero.webp?v=1774023806',
+          upcs: new Set(['810589032596','810589032602','810589032619']) },
+        { id: 'cookie-granola',   name: 'Cookie Granola',   color: '#d4b080',
+          image: CDN + 'CCCookieV2_Hero_fa495c2c-94ee-488f-a8bb-6ee7b885f3bc.webp?v=1750098618',
+          upcs: new Set(['081058903201','081058903224','810589031971','810589031964',
+                         '810589031988','810589032039','810589032015','810589032220',
+                         '810589032244','810589032183','810589032541']) },
+        { id: 'ancient-grain',    name: 'Ancient Grain',    color: '#a8b88c',
+          image: CDN + 'OriginalAncientGrain_Hero_864e40ed-1495-401c-bb53-71d82f600b43.webp?v=1737667868',
+          upcs: new Set(['081058903124','085514000266','855140002168','810589031216',
+                         '855140002687','855140002984','855140002144','855140002175',
+                         '810589031575','855140002151','855140002991','810589031094',
+                         '810589030271','810589031247','810589031438','810589031223',
+                         '810589031933','810589031872','810589032312','855140002656',
+                         '855140002663']) },
+        { id: 'grain-free',       name: 'Grain-Free',       color: '#c4b898',
+          image: CDN + '8ozHero_vanilla-almond-butter-grain-free-granola.png?v=1740067438',
+          upcs: new Set(['810589030295','810589030301','855140002724','855140002700']) },
+        { id: 'oatmeal',          name: 'Oatmeal',           color: '#d4c480',
+          image: CDN + 'blueberry-walnut-collagen-protein-oats-pouch.png?v=1715395484',
+          upcs: new Set(['081058903034','081058903167','081058903174','810589031735',
+                         '810589031742','810589031070','810589031087','810589030332',
+                         '810589031629','810589031636','810589031711','810589031704',
+                         '810589030004','810589032046','855140002298','855140002304',
+                         '810589031278','810589031674','810589031650','810589030349']) },
+        { id: 'protein-oatmeal',  name: 'Protein Oatmeal',  color: '#b0a0c4',
+          image: CDN + 'Maple_Cinnamon_Roll_V1_Hero.webp?v=1746544396',
+          upcs: new Set(['810589032411','810589032435','810589032459',
+                         '810589032794','810589032800']) },
+        { id: 'cereal',           name: 'Cereal',            color: '#90b4c8',
+          image: CDN + '11oz_vanilla-blueberry-almond-superfood-cereal-with-vitamin-d.png?v=1737680578',
+          upcs: new Set(['810589030035','810589031698','810589031940',
+                         '810589031957','810589032688']) },
+        { id: 'purely-glow',      name: 'Purely Glow',       color: '#d4a0b0',
+          image: CDN + 'LESaltedVanillaPistachioV1_Lifestyle4.webp?v=1768267949',
+          upcs: new Set(['000000123123','000000123124','000000123125','000000123126']) },
+    ];
+
+    let activeCategories = new Set();
+
     // Normalizes UPC: strips whitespace, pads pure-numeric UPCs to 12 digits
     function normalizeUPC(upc) {
         const s = String(upc).trim();
@@ -100,7 +144,8 @@ function initStoreLocator(config) {
             store.latitude  >= bounds.getSouth() &&
             store.latitude  <= bounds.getNorth() &&
             store.longitude >= bounds.getWest()  &&
-            store.longitude <= bounds.getEast()
+            store.longitude <= bounds.getEast()  &&
+            storeMatchesFilter(store)
         );
 
         document.querySelectorAll('.mapboxgl-marker').forEach(m => m.remove());
@@ -227,4 +272,81 @@ function initStoreLocator(config) {
     document.getElementById("search-input").addEventListener("keypress", e => {
         if (e.key === "Enter") handleSearch();
     });
+
+    // ── Filter logic ───────────────────────────────────────────────────────────
+
+    function storeMatchesFilter(store) {
+        if (activeCategories.size === 0) return true;
+        const storeUpcs = store.available_upcs
+            .flatMap(u => u.split(',').map(s => normalizeUPC(s.trim())))
+            .filter(Boolean);
+        return PRODUCT_CATEGORIES
+            .filter(c => activeCategories.has(c.id))
+            .some(c => storeUpcs.some(u => c.upcs.has(u)));
+    }
+
+    function updateFilterCount() {
+        const el = document.getElementById('filter-active-count');
+        if (!el) return;
+        if (activeCategories.size > 0) {
+            el.textContent = `${activeCategories.size} active`;
+            el.style.display = 'inline-block';
+        } else {
+            el.textContent = '';
+            el.style.display = 'none';
+        }
+    }
+
+    function initFilterPanel() {
+        const panel = document.getElementById('filter-panel');
+        if (!panel) return;
+        const tilesHtml = PRODUCT_CATEGORIES.map(cat => `
+            <div class="cat-tile" data-cat="${cat.id}"
+                 onclick="toggleCategory('${cat.id}')"
+                 style="background-color:${cat.color};">
+                <img src="${cat.image}" alt="${cat.name}" loading="lazy">
+                <div class="cat-checkmark">&#10003;</div>
+                <div class="cat-name">${cat.name}</div>
+            </div>`).join('');
+        panel.innerHTML = `
+            <button id="filter-toggle" onclick="toggleFilterPanel()" aria-expanded="false">
+                <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24"
+                     fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+                    <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+                </svg>
+                Find Products
+                <span id="filter-active-count" style="display:none;"></span>
+            </button>
+            <div id="filter-content" class="hidden">
+                <div id="filter-tiles">${tilesHtml}</div>
+                <button id="filter-clear-btn" onclick="clearFilter()">Clear All</button>
+            </div>`;
+    }
+
+    window.toggleCategory = (catId) => {
+        if (activeCategories.has(catId)) activeCategories.delete(catId);
+        else activeCategories.add(catId);
+        document.querySelectorAll('.cat-tile').forEach(t =>
+            t.classList.toggle('active', activeCategories.has(t.dataset.cat))
+        );
+        updateFilterCount();
+        renderVisibleStores();
+    };
+
+    window.clearFilter = () => {
+        activeCategories.clear();
+        document.querySelectorAll('.cat-tile').forEach(t => t.classList.remove('active'));
+        updateFilterCount();
+        renderVisibleStores();
+    };
+
+    window.toggleFilterPanel = () => {
+        const content = document.getElementById('filter-content');
+        if (!content) return;
+        const isHidden = content.classList.toggle('hidden');
+        document.getElementById('filter-toggle')
+            ?.setAttribute('aria-expanded', String(!isHidden));
+    };
+
+    initFilterPanel();
 }
