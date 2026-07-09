@@ -35,7 +35,7 @@ function initStoreLocator(config) {
                          '810589030271','810589031247','810589031438','810589031223',
                          '810589031933','810589031872','810589032312','855140002656',
                          '855140002663']) },
-        { id: 'grain-free',       name: 'Grain-Free',       color: '#c4b898',
+        { id: 'grain-free',       name: 'Grain-Free',       color: '#6ECCBB',
           image: CDN + '8ozHero_vanilla-almond-butter-grain-free-granola.png?v=1740067438',
           upcs: new Set(['810589030295','810589030301','855140002724','855140002700']) },
         { id: 'oatmeal',          name: 'Oatmeal',           color: '#92BDEE',
