@@ -53,9 +53,6 @@ function initStoreLocator(config) {
           image: CDN + '11oz_vanilla-blueberry-almond-superfood-cereal-with-vitamin-d.png?v=1737680578',
           upcs: new Set(['810589030035','810589031698','810589031940',
                          '810589031957','810589032688']) },
-        { id: 'purely-glow',      name: 'Purely Glow',       color: '#d4a0b0',
-          image: CDN + 'LESaltedVanillaPistachioV1_Lifestyle4.webp?v=1768267949',
-          upcs: new Set(['000000123123','000000123124','000000123125','000000123126']) },
     ];
 
     let activeCategories = new Set();
