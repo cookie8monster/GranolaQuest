@@ -8525,8 +8525,7 @@
     "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
     "available_upcs": [
       "810589032312",
-      "810589032541",
-      "2054293"
+      "810589032541"
     ],
     "available_upc_names": []
   },
@@ -10882,9 +10881,7 @@
     "phone": "",
     "zip_code": "66049",
     "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
-    "available_upcs": [
-      "2054293"
-    ],
+    "available_upcs": [],
     "available_upc_names": []
   },
   {
@@ -10897,9 +10894,7 @@
     "phone": "",
     "zip_code": "93010",
     "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
-    "available_upcs": [
-      "2054293"
-    ],
+    "available_upcs": [],
     "available_upc_names": []
   },
   {
@@ -10912,9 +10907,7 @@
     "phone": "",
     "zip_code": "53132",
     "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
-    "available_upcs": [
-      "2054293"
-    ],
+    "available_upcs": [],
     "available_upc_names": []
   },
   {
@@ -10927,9 +10920,7 @@
     "phone": "",
     "zip_code": "34987",
     "logo_url": "https://companieslogo.com/img/orig/COST-180a6d1f.png?t=1720244491",
-    "available_upcs": [
-      "2054293"
-    ],
+    "available_upcs": [],
     "available_upc_names": []
   }
 ]
