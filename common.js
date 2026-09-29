@@ -175,16 +175,12 @@ function initStoreLocator(config) {
             });
 
             const isCostco = store.retailer.toUpperCase().includes('COSTCO');
-            const isStorePNW = (() => {
-                const { latitude: lat, longitude: lng } = store;
-                return (45.5 <= lat && lat <= 49.0 && -124.7 <= lng && lng <= -116.9) ||
-                       (42.0 <= lat && lat <= 46.3 && -124.6 <= lng && lng <= -116.5) ||
-                       (41.9 <= lat && lat <= 49.0 && -117.2 <= lng && lng <= -111.0) ||
-                       (44.4 <= lat && lat <= 49.0 && -116.0 <= lng && lng <= -104.0);
-            })();
-            const popupHref = isStorePNW
-                ? 'https://sameday.costco.com/store/costco/s?k=purely+elizabeth+granola'
-                : 'https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz';
+            const hasNewProduct = store.available_upcs
+                .flatMap(u => u.split(',').map(s => s.trim()))
+                .includes('2054293');
+            const popupHref = hasNewProduct
+                ? 'https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz'
+                : 'https://sameday.costco.com/store/costco/s?k=purely+elizabeth+granola';
             const costcoLink = isCostco
                 ? `<br><a href="${popupHref}" target="_blank" rel="noopener" style="color:#005DAA;font-weight:bold;">Check Availability →</a>`
                 : '';
@@ -214,16 +210,12 @@ function initStoreLocator(config) {
 
         storeListEl.innerHTML = closestStores.map((store, index) => {
             const isCostcoStore = store.retailer.toUpperCase().includes('COSTCO');
-            const isPNW = (() => {
-                const { latitude: lat, longitude: lng } = store;
-                return (45.5 <= lat && lat <= 49.0 && -124.7 <= lng && lng <= -116.9) || // WA
-                       (42.0 <= lat && lat <= 46.3 && -124.6 <= lng && lng <= -116.5) || // OR
-                       (41.9 <= lat && lat <= 49.0 && -117.2 <= lng && lng <= -111.0) || // ID
-                       (44.4 <= lat && lat <= 49.0 && -116.0 <= lng && lng <= -104.0);   // MT
-            })();
-            const costcoHref = isPNW
-                ? 'https://sameday.costco.com/store/costco/s?k=purely+elizabeth+granola'
-                : 'https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz';
+            const storeHasNewProduct = store.available_upcs
+                .flatMap(u => u.split(',').map(s => s.trim()))
+                .includes('2054293');
+            const costcoHref = storeHasNewProduct
+                ? 'https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz'
+                : 'https://sameday.costco.com/store/costco/s?k=purely+elizabeth+granola';
             const costcoAvailLink = isCostcoStore
                 ? `<a href="${costcoHref}" target="_blank" rel="noopener" onclick="event.stopPropagation()" style="display:inline-block;margin-top:6px;color:#005DAA;font-weight:bold;font-size:0.85em;">Check Availability at Costco.com →</a>`
                 : '';
