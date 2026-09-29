@@ -26,7 +26,7 @@ function initStoreLocator(config) {
           image: CDN + 'CCCookieV2_Hero_fa495c2c-94ee-488f-a8bb-6ee7b885f3bc.webp?v=1750098618',
           upcs: new Set(['081058903201','081058903224','810589031971','810589031964',
                          '810589031988','810589032039','810589032015','810589032220',
-                         '810589032244','810589032183','810589032541']) },
+                         '810589032244','810589032183','810589032541','000002054293']) },
         { id: 'ancient-grain',    name: 'Ancient Grain',    color: '#FFDD59',
           image: CDN + 'OriginalAncientGrain_Hero_864e40ed-1495-401c-bb53-71d82f600b43.webp?v=1737667868',
           upcs: new Set(['081058903124','085514000266','855140002168','810589031216',
@@ -174,6 +174,10 @@ function initStoreLocator(config) {
                 backgroundColor:    "white"
             });
 
+            const isCostco = store.retailer.toUpperCase().includes('COSTCO');
+            const costcoLink = isCostco
+                ? `<br><a href="https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz" target="_blank" rel="noopener" style="color:#005DAA;font-weight:bold;">Check Availability →</a>`
+                : '';
             new mapboxgl.Marker(el)
                 .setLngLat([store.longitude, store.latitude])
                 .setPopup(new mapboxgl.Popup().setHTML(`
@@ -182,6 +186,7 @@ function initStoreLocator(config) {
                         <strong>${store.name}</strong><br>
                         ${store.address}<br>
                         <b>Phone:</b> ${store.phone}
+                        ${costcoLink}
                     </div>
                 `))
                 .addTo(map)
@@ -198,6 +203,10 @@ function initStoreLocator(config) {
             .slice(0, 10);
 
         storeListEl.innerHTML = closestStores.map((store, index) => {
+            const isCostcoStore = store.retailer.toUpperCase().includes('COSTCO');
+            const costcoAvailLink = isCostcoStore
+                ? `<a href="https://sameday.costco.com/store/costco/products/123785308-purely-elizabeth-organic-salted-vanilla-pistachio-cookie-granola-28-oz-28-oz" target="_blank" rel="noopener" onclick="event.stopPropagation()" style="display:inline-block;margin-top:6px;color:#005DAA;font-weight:bold;font-size:0.85em;">Check Availability at Costco.com →</a>`
+                : '';
             // Split comma-separated UPC strings into individual UPCs
             const upcs = store.available_upcs
                 .flatMap(u => u.split(",").map(s => s.trim()))
@@ -223,6 +232,7 @@ function initStoreLocator(config) {
                         <strong>${store.retailer}</strong><br>
                         ${store.address}<br>
                         <b>Phone:</b> ${store.phone}<br>
+                        ${costcoAvailLink}
                         <div class="available-items">
                             <span class="toggle-items" onclick="toggleItems(event, ${index})">&#9656; Available Items</span>
                             <div id="items-list-${index}" class="items-list" style="display:none;">${products}</div>
