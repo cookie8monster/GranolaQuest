@@ -192,7 +192,7 @@ function initStoreLocator(config) {
                 .setLngLat([store.longitude, store.latitude])
                 .setPopup(new mapboxgl.Popup().setHTML(`
                     <div style="text-align:center;">
-                        <img src="${store.logo_url}" alt="${store.name}" width="40"><br>
+                        <img src="${store.logo_url}" alt="${store.name}" width="40" height="40"><br>
                         <strong>${store.name}</strong><br>
                         ${store.address}<br>
                         <b>Phone:</b> ${store.phone}
@@ -233,7 +233,7 @@ function initStoreLocator(config) {
                 if (!product) return '';
                 const inner = `
                     <div class="product-item">
-                        <img src="${product.image_url}" alt="${product.name}" class="product-image">
+                        <img src="${product.image_url}" alt="${product.name}" class="product-image" width="80" height="80">
                         <div class="product-name">${product.name}</div>
                     </div>`;
                 return product.url
@@ -243,7 +243,7 @@ function initStoreLocator(config) {
 
             return `
                 <div class="store-item" data-lat="${store.latitude}" data-lng="${store.longitude}" onclick="flyToStore(${store.longitude}, ${store.latitude})">
-                    <img class="store-logo" src="${store.logo_url}" alt="${store.retailer}">
+                    <img class="store-logo" src="${store.logo_url}" alt="${store.retailer}" width="40" height="40">
                     <div style="flex-grow:1;">
                         <strong>${store.retailer}</strong><br>
                         ${store.address}<br>
@@ -392,7 +392,7 @@ function initStoreLocator(config) {
             <div class="cat-tile" data-cat="${cat.id}"
                  onclick="toggleCategory('${cat.id}')"
                  style="background-color:${cat.color};">
-                <img src="${cat.image}" alt="${cat.name}" loading="lazy">
+                <img src="${cat.image}" alt="${cat.name}" width="40" height="40" loading="lazy">
                 <div class="cat-checkmark">&#10003;</div>
                 <div class="cat-name">${cat.name}</div>
             </div>`).join('');
