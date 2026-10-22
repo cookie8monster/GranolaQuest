@@ -5,7 +5,9 @@ function initStoreLocator(config) {
     const MAPBOX_TOKEN = 'pk.eyJ1IjoibXdpbGxjb3g5MCIsImEiOiJjbTdjOHRjd2gwbmExMmtwbmJ3bGc1aDU2In0.lUKKhOSqsgRW1sYtfGM1dQ';
     const BASE_URL     = "https://raw.githubusercontent.com/cookie8monster/GranolaQuest/main/";
     const UPC_URL      = BASE_URL + "UPC%20June%202025%20v2.json";
-    const STORE_URL    = BASE_URL + encodeURIComponent(config.storeFile);
+    const STORE_URL    = config.storeFile.startsWith('http')
+        ? config.storeFile
+        : BASE_URL + encodeURIComponent(config.storeFile);
     const CACHE_BUSTER = `v=${Date.now()}`;
 
     mapboxgl.accessToken = MAPBOX_TOKEN;
