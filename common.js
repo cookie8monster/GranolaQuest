@@ -14,6 +14,7 @@ function initStoreLocator(config) {
     let upcData     = {};
     let map;
     let userLocation = null;
+    let pendingOpenStore = null; // { lat, lng } — auto-open sidebar item after next render
     const minZoomToShowMarkers = 8;
 
     // ── Product filter categories ──────────────────────────────────────────────
@@ -105,6 +106,7 @@ function initStoreLocator(config) {
             allStores = await response.json();
             console.log("✅ Store data loaded:", allStores.length, "stores");
             renderVisibleStores();
+            autoFlyToNearest();
         } catch (error) {
             console.error("Error loading stores:", error);
             allStores = [];
@@ -238,7 +240,7 @@ function initStoreLocator(config) {
             }).join('');
 
             return `
-                <div class="store-item" onclick="flyToStore(${store.longitude}, ${store.latitude})">
+                <div class="store-item" data-lat="${store.latitude}" data-lng="${store.longitude}" onclick="flyToStore(${store.longitude}, ${store.latitude})">
                     <img class="store-logo" src="${store.logo_url}" alt="${store.retailer}">
                     <div style="flex-grow:1;">
                         <strong>${store.retailer}</strong><br>
@@ -253,6 +255,33 @@ function initStoreLocator(config) {
                     <div class="distance-label">${store.distance.toFixed(1)} mi</div>
                 </div>`;
         }).join('');
+
+        // Auto-open Available Items for a store that was just clicked on the map
+        if (pendingOpenStore) {
+            const { lat, lng } = pendingOpenStore;
+            pendingOpenStore = null;
+            document.querySelectorAll('.store-item').forEach(el => {
+                if (Math.abs(parseFloat(el.dataset.lat) - lat) < 0.001 &&
+                    Math.abs(parseFloat(el.dataset.lng) - lng) < 0.001) {
+                    const list = el.querySelector('.items-list');
+                    if (list) list.style.display = 'grid';
+                    el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                }
+            });
+        }
+    }
+
+    // --- Auto-fly to nearest store on initial load ---
+    function autoFlyToNearest() {
+        if (!userLocation || !allStores.length || !map) return;
+        const nearest = allStores
+            .map(s => ({ ...s, dist: getDistance(userLocation.lat, userLocation.lng, s.latitude, s.longitude) }))
+            .sort((a, b) => a.dist - b.dist)[0];
+        if (!nearest) return;
+        const bounds = new mapboxgl.LngLatBounds()
+            .extend([userLocation.lng, userLocation.lat])
+            .extend([nearest.longitude, nearest.latitude]);
+        map.fitBounds(bounds, { padding: 80, maxZoom: 12 });
     }
 
     // --- Utilities ---
@@ -284,7 +313,10 @@ function initStoreLocator(config) {
     }
 
     // Exposed globally for inline onclick handlers
-    window.flyToStore   = (lng, lat) => map.flyTo({ center: [lng, lat], zoom: 14 });
+    window.flyToStore = (lng, lat) => {
+        pendingOpenStore = { lat, lng };
+        map.flyTo({ center: [lng, lat], zoom: 14 });
+    };
     window.toggleItems  = (event, index) => {
         event.stopPropagation();
         const list = document.getElementById(`items-list-${index}`);
